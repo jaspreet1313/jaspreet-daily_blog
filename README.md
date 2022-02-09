@@ -1,8 +1,5 @@
-Good evening @all
 
-You can use the [editor on GitHub](https://github.com/jaspreet1313/jaspreet-daily_blog/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ I am working on budibase(Budibase is a low-code development platform that helps you build a business software app in minutes).Today i am installing docker for hosting on cloud in budibase .I got error in last step during installation.
 
 ### Markdown
 
