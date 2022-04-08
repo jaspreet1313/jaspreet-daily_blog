@@ -94,4 +94,11 @@ time.</p>
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 
+**Date : 11-Feb-2022** 
+<h3 align='center'>Create a CRUD app in budibase</h3>
+
+For more details creating CRUD app click on "https://docs.budibase.com/docs/build-a-crud-app".
+
+
+
 
