@@ -97,8 +97,40 @@ time.</p>
 **Date : 11-Feb-2022** 
 <h3 align='center'>Create a CRUD app in budibase</h3>
 
-For more details creating CRUD app click on "https://docs.budibase.com/docs/build-a-crud-app".
+For more details creating CRUD app click on "https://docs.budibase.com/docs/build-a-crud-app".<br>
+<!----------------------------------------------------------------------------------------------------------------------------->
 
+
+**Date : 12-Feb-2022**
+<h3 align='center'>Working on Job portal app in budibase</h3>
+I checked how all pages are created in job portal app .How it to be pulished. 
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**Date : 13-Feb-2022**
+<h3 align='center'>Working on Job portal app in budibase</h3>
+Today I finding how we can make public screens.
+
+if you want to access a budibase app without login, you will need to make some "Public" screens, and browse directly to the URL for those screens.
+
+You will also need to make sure that your public screens are only accessing tables/queries that have "Public" access. Beware that this will mean that all data in those tables will be public (if "Read" is set to Public).
+And I successfully make all screens public.
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**Date : 14-Feb-2022**
+<h3 align='center'>Installation of frappe </h3>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**Date : 15-Feb-2022**
+
+<h3 align='center'>Installation of erpnext </h3>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**Date : 16-Feb-2022**
+
+<h3 align='center'>Creating LMS </h3>
 
 
 
