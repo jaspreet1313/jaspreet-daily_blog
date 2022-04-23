@@ -119,12 +119,14 @@ And I successfully make all screens public.
 
 **Date : 14-Feb-2022**
 <h3 align='center'>Installation of frappe </h3>
+I have Installed frappe from 
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 **Date : 15-Feb-2022**
 
 <h3 align='center'>Installation of erpnext </h3>
+Today I have installed erpnext from this link.Alongside this I am finding some concepts of Budibase like how to make pages public in app and then publish.
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
