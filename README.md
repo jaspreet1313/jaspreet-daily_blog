@@ -15,6 +15,7 @@
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
+
 **Date : 2-Feb-2022** 
 <h3 align='center'>Introduction to LAMP Stack</h3>
 
@@ -29,18 +30,20 @@
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 4-Feb-2022**
+
+**Date : 3-Feb-2022**
 <h3 align='center'>Introduction to frappe</h3>
 
 <p align="justify">Frappe, pronounced fra-pay, is a full stack, batteries-included, web framework written in Python and Javascript with MariaDB as the database. It is the framework which powers ERPNext, is pretty generic and can be used to build database driven apps.</p>
-#### Why Frappe?
+**Why Frappe?
 <p align="justify">The key difference in Frappe compared to other frameworks is that meta-data is also treated as data. This enables you to build front-ends very easily. We believe in a monolithic architecture, so Frappe comes with almost everything you need to build a modern web application. It has a full featured Admin UI called the Desk that handles forms, navigation, lists, menus, permissions, file attachment and much more out of the box.</p>
 
 - Install Frappe-bench and its required tool. For more info [Click here](https://frappeframework.com/docs/v13/user/en/installation).
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 5-Feb-2022**
+
+**Date : 4-Feb-2022**
 <h3 align='center'>Creating App and Site & run on local server in Frappe</h3>
 
 - Start Bench in one Terminal.
@@ -51,7 +54,8 @@
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 7-Feb-2022**
+
+**Date : 5-Feb-2022**
 <h3 align='center'>Introduction to Github Pages</h3>
 
 - Getting Information What is GitHub Pages.
@@ -63,16 +67,17 @@
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-**Date:9-Feb-2022**
-<h3 align='center'>Working on budibase</h3>
+**Date:7-Feb-2022**
+<h3 align='center'>Introduction to budibase</h3>
 
-I am working on budibase(Budibase is a low-code development platform that helps you build a business software app in minutes).
+Budibase is an all-in-one low-code platform for building, designing, and automating business apps, such as; admin panels, forms, internal tools, client portals, and more. Before Budibase, it could take developers weeks to build simple CRUD apps; with Budibase, building CRUD apps takes minutes.
 
-Today i am installing docker for hosting app in budibase .It is successfully installed.I got error during 'setting up budibase'.Not solved yet. I follow "https://github.com/Budibase/docs/tree/master/self-hosting" .
+**Why Budibase ?**
+
+Today i am installing docker for hosting app in budibase .It is successfully installed. But i got error during 'setting up budibase'.Not solved yet. I follow "https://github.com/Budibase/docs/tree/master/self-hosting" .
 <br>
 
 <!---------------------------------------------------------------------------------------------------------------------------->
-
 
 **Date : 10-Feb-2022** 
 <h3 align='center'>Introduction to Docker, Virtual Machine </h3>
@@ -90,50 +95,51 @@ time.</p>
 - It can run only a limited number of VMs on a system.
 <br>
 
-
 <!----------------------------------------------------------------------------------------------------------------------------->
-
 
 **Date : 11-Feb-2022** 
 <h3 align='center'>Create a CRUD app in budibase</h3>
 
-For more details creating CRUD app click on "https://docs.budibase.com/docs/build-a-crud-app".<br>
-<!----------------------------------------------------------------------------------------------------------------------------->
+<p align="justify">Building apps with Budibase involves 4 simple steps:
 
+Install Budibase - Use Budibase Cloud to get started in seconds, or self-host your apps using Docker, Kubernetes , or DigitalOcean.
+Add data - You can connect to data sources like PostgreSQL, Rest APIs, MS SQL, MySQL and more, or start from scratch with Budibase's built-in database (Budibase DB, built on top of CouchDB).
+Design your UI - Build beautiful, accessible user interfaces people enjoy using. Autogenerate CRUD screens from your data, or create custom screens from scratch. Use powerful components, such as tables, buttons, form inputs, to enrich your interface. Switch from light mode to dark mode with just a click.
+Automate processes - In seconds, setup automations such as email alerts, Slack notifications, CRON actions, and more.</p>
+
+For creating CRUD app click on "https://docs.budibase.com/docs/build-a-crud-app".<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
 
 **Date : 12-Feb-2022**
-<h3 align='center'>Working on Job portal app in budibase</h3>
-I checked how all pages are created in job portal app .How it to be pulished. 
 <!----------------------------------------------------------------------------------------------------------------------------->
+<h3 align='center'>Introduction to Selenium, Budibase, Coding standard for program</h3>
+- Selenium is browser automation tool by which you can create a script which automatically done task like fill credential and click for search.
+- Budibase is a development platform designed for speed and productivity. 
+- <p align="justify">With Budibase, developers no-longer experience repetition, long-dev cycles, and frustration. Instead, developers are more productive, happier, and can deliver applications they're proud of in minutes.</p>
 
-**Date : 13-Feb-2022**
-<h3 align='center'>Working on Job portal app in budibase</h3>
-Today I finding how we can make public screens.
-
-if you want to access a budibase app without login, you will need to make some "Public" screens, and browse directly to the URL for those screens.
-
-You will also need to make sure that your public screens are only accessing tables/queries that have "Public" access. Beware that this will mean that all data in those tables will be public (if "Read" is set to Public).
-And I successfully make all screens public.
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 **Date : 14-Feb-2022**
-<h3 align='center'>Introduction to frappe</h3>
+<h3 align='center'></h3>
 
-<p align="justify">Frappe, pronounced fra-pay, is a full stack, batteries-included, web framework written in Python and Javascript with MariaDB as the database. It is the framework which powers ERPNext, is pretty generic and can be used to build database driven apps.</p>
-**Why Frappe?
-<p align="justify">The key difference in Frappe compared to other frameworks is that meta-data is also treated as data. This enables you to build front-ends very easily. We believe in a monolithic architecture, so Frappe comes with almost everything you need to build a modern web application. It has a full featured Admin UI called the Desk that handles forms, navigation, lists, menus, permissions, file attachment and much more out of the box.</p>
+<h3 align='center'>Working on Job portal app in budibase</
+if you want to access a budibase app without login, you will need to make some "Public" screens, and browse directly to the URL for those screens.
 
-- Install Frappe-bench and its required tool. For more info [Click here](https://frappeframework.com/docs/v13/user/en/installation).
-<br>
+You will also need to make sure that your public screens are only accessing tables/queries that have "Public" access. Beware that this will mean that all data in those tables will be public (if "Read" is set to Public).
+And I successfully make all screens public.
+I checked how all pages are created in job portal app. How it to be pulished. 
 
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**Date : 15-Feb-2022**
+Today
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 **Date : 15-Feb-2022**
 
-<h3 align='center'>Installation of erpnext </h3>
-Today I have installed erpnext from this link.Alongside this I am finding some concepts of Budibase like how to make public app and then publish.
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
