@@ -113,41 +113,192 @@ For creating CRUD app click on "https://docs.budibase.com/docs/build-a-crud-app"
 
 **Date : 12-Feb-2022**
 <!----------------------------------------------------------------------------------------------------------------------------->
-<h3 align='center'>Introduction to Selenium, Budibase, Coding standard for program</h3>
+<h3 align='center'>Introduction to Selenium, Budibase</h3>
 - Selenium is browser automation tool by which you can create a script which automatically done task like fill credential and click for search.
 - Budibase is a development platform designed for speed and productivity. 
 - <p align="justify">With Budibase, developers no-longer experience repetition, long-dev cycles, and frustration. Instead, developers are more productive, happier, and can deliver applications they're proud of in minutes.</p>
+- 
 
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 **Date : 14-Feb-2022**
-<h3 align='center'></h3>
+<h3 align='center'>Understanding the concept of budibase app </h3>
+I am currently working on budibase. Today i was reading the concept of apps that how they are created in Budibase.
+I haven’t done anything extra on budibase except reading the documentation and understanding the concept of built- in apps in budibase
 
-<h3 align='center'>Working on Job portal app in budibase</
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**Date : 15-Feb-2022**
+<h3 align='center'>Working on Job portal app in budibase</h3>
 if you want to access a budibase app without login, you will need to make some "Public" screens, and browse directly to the URL for those screens.
 
 You will also need to make sure that your public screens are only accessing tables/queries that have "Public" access. Beware that this will mean that all data in those tables will be public (if "Read" is set to Public).
 And I successfully make all screens public.
-I checked how all pages are created in job portal app. How it to be pulished. 
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-
-**Date : 15-Feb-2022**
-Today
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-
-**Date : 15-Feb-2022**
+I checked how all pages are created in job portal app. How it to be published. 
 
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-**Date : 16-Feb-2022**
+**Date : 17-Feb-2022**
+<h3 align='center'>Create CRUD app using MySQL in budibase</h3>
+
+For creating CRUD app click on "https://docs.budibase.com/docs/build-a-crud-app".<br>
+
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**Date : 18-Feb-2022**
 
 <h3 align='center'>Creating LMS </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**Date : 19-Feb-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**Date : 21-Feb-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+ 
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**Date : 22-Feb-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
 
 
 
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**Date : 23-Feb-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+<h3 align='center'> </h3>
+Today sir has assigned the task to explore education domain.I am reading the documentation and trying to understand it.
+<p align="justify"> </p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**Date : 24-Feb-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
 
 
+<h3 align='center'> learning about the modules of education domain</h3>
+<p align="justify"> I am learning about the modules of education domain.
+Under faculty modules I have added teachers and checked the database entries .Today I have also learnt about GitHub basic commands like commit ,push.
+</p>
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**Date : 25-Feb-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+<h3 align='center'> basic setup of education domain</h3>
+
+<p align="justify"> </p>
+ Today I have done the basic setup of education.First I created Programs, Course, Academic year, Academic Term etc.
+
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**Date : 26-Feb-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+<h3 align='center'>basic setup of education Student Module </h3>
+
+<p align="justify"> I am uderstanding the concept of Student module in erpnext.I created Student, Student group etc.
+</p>
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**Date : 28-Feb-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+<h3 align='center'>  </h3>
+Today I am trying to understand how i can assign courses, programs, enroll
+students in programs and how to alot instructors to the students
+according to a school and done it on my local.
+<p align="justify"> </p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**Date : 01-March-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+<h3 align='center'> Sceduling Module</h3>
+<p align="justify"> Today I implementing the course Schedule on my local</p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+
+**Date : 01-March-2022**
+<!----------------------------------------------------------------------------------------------------------------------------->
+<h3 align='center'> Support Module</h3>
+<p align="justify">I am exploring Managing issue web form.
+Issue can be created in two ways. One is through the web portal after logged in and issue is created in the backend. Another one is through emails on support address and issue is created in the backend.
+</p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**Date : 11-March-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+<h3 align='center'> Assesement Module</h3>
+<p align="justify">Today I implemented the assessment module in
+gne11.gndec.ac.in.
+First I have created  Assessment Creteria . For example, if the assessment was conducted for english or other subject, then we canevaluate Student in English on various criteria like Writing, internal assessment(viva), Attendence etc.Assessment criteria can be used while scheduling assessment plan for
+student group and course.
+Then next , I have created Assessment group tree (hierarchy for examination conducted in school) for one batch i.e 2021-2022 . As shown in following screenshot.
+**Assessment plan**
+
+Next I created Assessment plan which is schedule to conduct the examination/assessment of a particular course for a group of students in an on-going academic term. For creating Assessment plan the prerequisites is grading scale so, we need to create grading scale for it.
+
+Grading Scale
+
+Grading scale define the threshold for the different grades obtained by the students, based on their scores in the assessment. For example , I have created grading scale of Students obtaining a score of 100%  would be graded as O, students obtaining a score of 80% and below would be graded A- and so on.
+After creating Assessment plan for course 'English-4/A/MST -1'. Then
+there is Assessment Result.
+
+Assessment Result
+
+Assessment Result is log of marks/grades earned by the student for
+specific Assessment. Basically we can use Assessment Result Tool for
+creating log of marks of multiple students at the same time . It is
+based on Assessment plan.
+
+ </p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+
+**Date : 12-March-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+<h3 align='center'>Setup of Assessment Module </h3>
+<p align="justify">Today I have done the setup of Assessment module.</p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 14-March-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+<h3 align='center'>Result creation of students</h3>
+<p align="justify"> Today I am testing the assesment module, where the result of all the students in coursewise.For that first i have to create assessment plan for each course.Then get the reult of that particular assessment plan.</p>
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 15-March-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+<h3 align='center'> Report Generation of student</h3>
+<p align="justify"> In the erpnext education module I was trying to generate report card for students while creating report card I am able to show the courses and exams but not able to show the marks of students in the report card.I have assigned the marks to the particular students.</p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
