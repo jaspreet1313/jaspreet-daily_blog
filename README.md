@@ -118,21 +118,30 @@ And I successfully make all screens public.
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 **Date : 14-Feb-2022**
-<h3 align='center'>Installation of frappe </h3>
-I have Installed frappe from 
+<h3 align='center'>Introduction to frappe</h3>
+
+<p align="justify">Frappe, pronounced fra-pay, is a full stack, batteries-included, web framework written in Python and Javascript with MariaDB as the database. It is the framework which powers ERPNext, is pretty generic and can be used to build database driven apps.</p>
+#### Why Frappe?
+<p align="justify">The key difference in Frappe compared to other frameworks is that meta-data is also treated as data. This enables you to build front-ends very easily. We believe in a monolithic architecture, so Frappe comes with almost everything you need to build a modern web application. It has a full featured Admin UI called the Desk that handles forms, navigation, lists, menus, permissions, file attachment and much more out of the box.</p>
+
+- Install Frappe-bench and its required tool. For more info [Click here](https://frappeframework.com/docs/v13/user/en/installation).
+<br>
+
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 **Date : 15-Feb-2022**
 
 <h3 align='center'>Installation of erpnext </h3>
-Today I have installed erpnext from this link.Alongside this I am finding some concepts of Budibase like how to make pages public in app and then publish.
+Today I have installed erpnext from this link.Alongside this I am finding some concepts of Budibase like how to make public app and then publish.
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 **Date : 16-Feb-2022**
 
 <h3 align='center'>Creating LMS </h3>
+
+
 
 
 
