@@ -145,10 +145,9 @@ I checked how all pages are created in job portal app. How it to be published.
 
 For creating CRUD app click on "https://docs.budibase.com/docs/build-a-crud-app".<br>
 
-
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-**Date : 18-Feb-2022**
+**Date : 16-March-2022**
 
 <h3 align='center'>Creating LMS </h3>
 <p align="justify"></p>
@@ -164,9 +163,9 @@ For creating CRUD app click on "https://docs.budibase.com/docs/build-a-crud-app"
 
 **Date : 21-Feb-2022**
 
-<h3 align='center'>Introdutio MUX</h3>
-<p align="justify"></pToday we were working on education domain in erpnext and trying to understand the student module of education domain. Today we got to know two new tools which are really very helpful for the coders which are TMUX and MOSH. Mosh: Mosh is free and command-line software that is used to connect from a client computer to a server over the Internet to run a remote terminal. Mosh is more intelligent than SSH. While the SSH client waits for a TCP response from the server before showing your typing, Mosh will display your typing in real-time and even give underlined typing predictions. The mosh program will SSH to user@host to establish the connection. As you know, SSH may prompt the user for a password or use public-key authentication to log in. But mosh runs the mosh-server process (as the user) on the server machine. Mosh will run inside your Terminals such as xterm, gnome-terminal, urxvt, Terminal.app, iTerm, emacs, screen, or tmux.
-Tmux: Tmux is a Linux application that allows multitasking in a terminal window. It stands for Terminal Multiplexing, and is based around sessions. Users can start a process, switch to a new one, detach from a running process, and reattach to a running process.
+<h3 align='center'>Introdution to TMUX and Mosh</h3>
+<p align="justify">Today we were working on education domain in erpnext and trying to understand the student module of education domain. Today we got to know two new tools which are really very helpful for the coders which are TMUX and MOSH. Mosh: Mosh is free and command-line software that is used to connect from a client computer to a server over the Internet to run a remote terminal. Mosh is more intelligent than SSH. While the SSH client waits for a TCP response from the server before showing your typing, Mosh will display your typing in real-time and even give underlined typing predictions. The mosh program will SSH to user@host to establish the connection. As you know, SSH may prompt the user for a password or use public-key authentication to log in. But mosh runs the mosh-server process (as the user) on the server machine. Mosh will run inside your Terminals such as xterm, gnome-terminal, urxvt, Terminal.app, iTerm, emacs, screen, or tmux.
+Tmux: Tmux is a Linux application that allows multitasking in a terminal window. It stands for Terminal Multiplexing, and is based around sessions. Users can start a process, switch to a new one, detach from a running process, and reattach to a running process.</p>
  
 <!----------------------------------------------------------------------------------------------------------------------------->
 
@@ -208,7 +207,6 @@ Under faculty modules I have added teachers and checked the database entries .To
 
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-
 **Date : 26-Feb-2022**
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -246,7 +244,7 @@ according to a school and done it on my local.
 <h3 align='center'> Support Module</h3>
 <p align="justify">I am exploring Managing issue web form.
 Issue can be created in two ways. One is through the web portal after logged in and issue is created in the backend. Another one is through emails on support address and issue is created in the backend.
-</p>
+  </p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
@@ -291,13 +289,16 @@ based on Assessment plan.
 </p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
+
 **Date : 14-March-2022**
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 <h3 align='center'>Result creation of students</h3>
 <p align="justify"> Today I am testing the assesment module, where the result of all the students in coursewise.For that first i have to create assessment plan for each course.Then get the reult of that particular assessment plan.</p>
+
 <!----------------------------------------------------------------------------------------------------------------------------->
+
 **Date : 15-March-2022**
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -332,205 +333,9 @@ based on Assessment plan.
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 19-March-2022**
 
-<h3 align='center'> </h3>
+<h3 align='center'> Assessment Module in Nankana sahib public school</h3>
 <p align="justify"></p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Date : -March-2022**
-
-<h3 align='center'> </h3>
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 16-March-2022**
-
-<h3 align='center'> </h3>
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 16-March-2022**
-
-<h3 align='center'> </h3>
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 16-March-2022**
-
-<h3 align='center'> </h3>
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 16-March-2022**
-
-<h3 align='center'> </h3>
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 16-March-2022**
-
-<h3 align='center'> </h3>
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 16-March-2022**
-
-<h3 align='center'> </h3>
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 16-March-2022**
-
-<h3 align='center'> </h3>
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 16-March-2022**
-
-<h3 align='center'> </h3>
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 16-March-2022**
-
-<h3 align='center'> </h3>
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 16-March-2022**
-
-<h3 align='center'> </h3>
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 16-March-2022**
-
-<h3 align='center'> </h3>
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 16-March-2022**
-
-<h3 align='center'> </h3>
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 16-March-2022**
-
-<h3 align='center'> </h3>
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 16-March-2022**
-
-<h3 align='center'> </h3>
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 16-March-2022**
-
-<h3 align='center'> </h3>
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 16-March-2022**
-
-<h3 align='center'> </h3>
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 16-March-2022**
-
-<h3 align='center'> </h3>
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 16-March-2022**
-
-<h3 align='center'> </h3>
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 16-March-2022**
-
-<h3 align='center'> </h3>
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 16-March-2022**
-
-<h3 align='center'> </h3>
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 16-March-2022**
-
-<h3 align='center'> </h3>
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 16-March-2022**
-
-<h3 align='center'> </h3>
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 16-March-2022**
-
-<h3 align='center'> </h3>
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 16-March-2022**
-
-<h3 align='center'> </h3>
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 16-March-2022**
-
-<h3 align='center'> </h3>
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 16-March-2022**
-
-<h3 align='center'> </h3>
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 16-March-2022**
-
-<h3 align='center'> </h3>
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 16-March-2022**
-
-<h3 align='center'> </h3>
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 16-March-2022**
-
-<h3 align='center'> </h3>
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 16-March-2022**
-
-<h3 align='center'> </h3>
-<p align="justify"></p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-
-
 
 
