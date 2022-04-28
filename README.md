@@ -157,28 +157,31 @@ For creating CRUD app click on "https://docs.budibase.com/docs/build-a-crud-app"
 
 **Date : 19-Feb-2022**
 
+<h3 align='center'>Creating LMS </h3>
+<p align="justify"></p>
+
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 **Date : 21-Feb-2022**
 
-<!----------------------------------------------------------------------------------------------------------------------------->
-
+<h3 align='center'>Introdutio MUX</h3>
+<p align="justify"></pToday we were working on education domain in erpnext and trying to understand the student module of education domain. Today we got to know two new tools which are really very helpful for the coders which are TMUX and MOSH. Mosh: Mosh is free and command-line software that is used to connect from a client computer to a server over the Internet to run a remote terminal. Mosh is more intelligent than SSH. While the SSH client waits for a TCP response from the server before showing your typing, Mosh will display your typing in real-time and even give underlined typing predictions. The mosh program will SSH to user@host to establish the connection. As you know, SSH may prompt the user for a password or use public-key authentication to log in. But mosh runs the mosh-server process (as the user) on the server machine. Mosh will run inside your Terminals such as xterm, gnome-terminal, urxvt, Terminal.app, iTerm, emacs, screen, or tmux.
+Tmux: Tmux is a Linux application that allows multitasking in a terminal window. It stands for Terminal Multiplexing, and is based around sessions. Users can start a process, switch to a new one, detach from a running process, and reattach to a running process.
  
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 **Date : 22-Feb-2022**
 
-<!----------------------------------------------------------------------------------------------------------------------------->
 
+<h3 align='center'>Working on ERPNext </h3>
+<p align="justify">Today i started working on new platform erpnext it is open source, and low code or no platform.Today i am reading the documentation of erpnext to understand the education domain. Today i have created some programs and courses now i am trying to understand how to enroll students in programs and courses.</p>
 
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 **Date : 23-Feb-2022**
 
-<!----------------------------------------------------------------------------------------------------------------------------->
-
-<h3 align='center'> </h3>
+<h3 align='center'>Working on erpnext </h3>
 Today sir has assigned the task to explore education domain.I am reading the documentation and trying to understand it.
 <p align="justify"> </p>
 
@@ -201,7 +204,7 @@ Under faculty modules I have added teachers and checked the database entries .To
 <h3 align='center'> basic setup of education domain</h3>
 
 <p align="justify"> </p>
- Today I have done the basic setup of education.First I created Programs, Course, Academic year, Academic Term etc.
+ Today I have done the basic setup of education.First I created Student, Student group etc.
 
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -212,7 +215,7 @@ Under faculty modules I have added teachers and checked the database entries .To
 
 <h3 align='center'>basic setup of education Student Module </h3>
 
-<p align="justify"> I am uderstanding the concept of Student module in erpnext.I created Student, Student group etc.
+<p align="justify"> I am uderstanding the concept of Student module in erpnext.I created Student category Academic year, Academic Term  etc.
 </p>
 <!----------------------------------------------------------------------------------------------------------------------------->
 
@@ -220,7 +223,7 @@ Under faculty modules I have added teachers and checked the database entries .To
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-<h3 align='center'>  </h3>
+<h3 align='center'> Setup of Education Domain  </h3>
 Today I am trying to understand how i can assign courses, programs, enroll
 students in programs and how to alot instructors to the students
 according to a school and done it on my local.
@@ -232,8 +235,8 @@ according to a school and done it on my local.
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-<h3 align='center'> Sceduling Module</h3>
-<p align="justify"> Today I implementing the course Schedule on my local</p>
+<h3 align='center'> Course Sceduling Module</h3>
+<p align="justify"> Today I implementing the course Schedule on my local. Using this , a time table or an itinerary can be created in the Institute, where in each slot will be scheduled via Course schedule.We can mark attendance for a Student Group against a Course Schedule.</p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
@@ -261,6 +264,18 @@ Then next , I have created Assessment group tree (hierarchy for examination cond
 
 Next I created Assessment plan which is schedule to conduct the examination/assessment of a particular course for a group of students in an on-going academic term. For creating Assessment plan the prerequisites is grading scale so, we need to create grading scale for it.
 
+ </p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+
+**Date : 12-March-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+<h3 align='center'>Setup of Assessment Module </h3>
+<p align="justify">Today I have done the setup of Assessment module.I have created grading scale and assessment result as following:
+
 Grading Scale
 
 Grading scale define the threshold for the different grades obtained by the students, based on their scores in the assessment. For example , I have created grading scale of Students obtaining a score of 100%  would be graded as O, students obtaining a score of 80% and below would be graded A- and so on.
@@ -273,18 +288,7 @@ Assessment Result is log of marks/grades earned by the student for
 specific Assessment. Basically we can use Assessment Result Tool for
 creating log of marks of multiple students at the same time . It is
 based on Assessment plan.
-
- </p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-
-
-**Date : 12-March-2022**
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-
-<h3 align='center'>Setup of Assessment Module </h3>
-<p align="justify">Today I have done the setup of Assessment module.</p>
+</p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 14-March-2022**
@@ -302,3 +306,231 @@ based on Assessment plan.
 <p align="justify"> In the erpnext education module I was trying to generate report card for students while creating report card I am able to show the courses and exams but not able to show the marks of students in the report card.I have assigned the marks to the particular students.</p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
+
+**Date : 16-March-2022**
+
+<h3 align='center'> Workflow and Basic Setup Nankana Sahib Public School</h3>
+<p align="justify">Today we all have done the basic setup again for Nankana Sahib Public School for Class 1 to Class 8 and imported students, instructors and enrolled them in programs, courses and assigned instructors to the programs. As it was very difficult for all of us to understand because there were many same enteries of two companies one of Nankana Sahib Public School and another of Guru Nanak Dev Engineering College and there were many enteries that we all have entered for testing purpose. So today we all deleted all the previous enteries to do the setup from scratch. It was very helpful for all of us as there were some doubts of us related to program enrollment , course enrollment and student group.</p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 17-March-2022**
+
+<h3 align='center'> Course Scheduling </h3>
+<p align="justify">Today we all have implemented course scheduling via course scheduling tool , assessment plan, attendance by using attendance tool, we were also exploring the student leave application but the problem is if we have added an application for leave and also approved it but after approving if an instructor is trying to add attendance of whole class via attendence tool then it marking everyone present including students with leave application. Today we all have explored learning management system in erpnext too "https://gne11.gndec.ac.in/lms" which is basically student interface. I was also working on emails basically "how we can disable email must be unique" in erpnext and I have found a solution for this problem for this we have to open the doctype and to click on customize doctype and then go to email field type then click on edit in full page there is an checkbox named "Unique" then just uncheck it. Now I was exploring how do I can add parents in erpnext and what are the requirements and I have found that there is an option named guardians in erpnext education module now I am working on it.
+ 
+ 
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+**Date : 18-March-2022**
+
+<h3 align='center'>Report Card Generation
+ in Nankana sahib public school</h3>
+<p align="justify">In the erpnext education module I was trying to generate report card for students while creating report card I am able to show the courses and exams but not able to show the marks of students in the report card,
+
+</p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 19-March-2022**
+
+<h3 align='center'> </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : -March-2022**
+
+<h3 align='center'> </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 16-March-2022**
+
+<h3 align='center'> </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 16-March-2022**
+
+<h3 align='center'> </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 16-March-2022**
+
+<h3 align='center'> </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 16-March-2022**
+
+<h3 align='center'> </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 16-March-2022**
+
+<h3 align='center'> </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 16-March-2022**
+
+<h3 align='center'> </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 16-March-2022**
+
+<h3 align='center'> </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 16-March-2022**
+
+<h3 align='center'> </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 16-March-2022**
+
+<h3 align='center'> </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 16-March-2022**
+
+<h3 align='center'> </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 16-March-2022**
+
+<h3 align='center'> </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 16-March-2022**
+
+<h3 align='center'> </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 16-March-2022**
+
+<h3 align='center'> </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 16-March-2022**
+
+<h3 align='center'> </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 16-March-2022**
+
+<h3 align='center'> </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 16-March-2022**
+
+<h3 align='center'> </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 16-March-2022**
+
+<h3 align='center'> </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 16-March-2022**
+
+<h3 align='center'> </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 16-March-2022**
+
+<h3 align='center'> </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 16-March-2022**
+
+<h3 align='center'> </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 16-March-2022**
+
+<h3 align='center'> </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 16-March-2022**
+
+<h3 align='center'> </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 16-March-2022**
+
+<h3 align='center'> </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 16-March-2022**
+
+<h3 align='center'> </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 16-March-2022**
+
+<h3 align='center'> </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 16-March-2022**
+
+<h3 align='center'> </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 16-March-2022**
+
+<h3 align='center'> </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 16-March-2022**
+
+<h3 align='center'> </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 16-March-2022**
+
+<h3 align='center'> </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 16-March-2022**
+
+<h3 align='center'> </h3>
+<p align="justify"></p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+
+
+
