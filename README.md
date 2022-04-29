@@ -295,7 +295,7 @@ based on Assessment plan.
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 <h3 align='center'>Result creation of students</h3>
-<p align="justify"> Today I am testing the assesment module, where the result of all the students in coursewise.For that first i have to create assessment plan for each course.Then get the reult of that particular assessment plan.</p>
+<p align="justify"> Today I am testing the assesment module, where the result of all the students in coursewise.For that first i have to create assessment plan for each course.Then get the reult of that particular assessment plan. </p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
@@ -344,4 +344,19 @@ Scaffhold:-Scaffolding is a meta-programming method of building database-backed 
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
+**Date : 21-March-2022**
 
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+<h3 align='center'>Creating workflow for Student Admission</h3>
+<p align="justifyoday we were trying to create a workflow for student applicant in erpnext as per the structure given by satinder sir . For that we created a user named admission checker and set permission for the user.
+
+After that we have created states and transition rules in workflow it is working properly now we are trying to add fee section in student applicant list<p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+          
+**Date : 22-March-2022**
+          
+<!----------------------------------------------------------------------------------------------------------------------------->
+          
+ 
