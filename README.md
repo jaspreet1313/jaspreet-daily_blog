@@ -314,6 +314,7 @@ based on Assessment plan.
 <p align="justify">Today we all have done the basic setup again for Nankana Sahib Public School for Class 1 to Class 8 and imported students, instructors and enrolled them in programs, courses and assigned instructors to the programs. As it was very difficult for all of us to understand because there were many same enteries of two companies one of Nankana Sahib Public School and another of Guru Nanak Dev Engineering College and there were many enteries that we all have entered for testing purpose. So today we all deleted all the previous enteries to do the setup from scratch. It was very helpful for all of us as there were some doubts of us related to program enrollment , course enrollment and student group.</p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
+
 **Date : 17-March-2022**
 
 <h3 align='center'> Course Scheduling </h3>
@@ -331,10 +332,15 @@ based on Assessment plan.
 </p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
+
 **Date : 19-March-2022**
 
-<h3 align='center'> Assessment Module in Nankana sahib public school</h3>
-<p align="justify"></p>
+<h3 align='center'>Gunicorn, Socket.io, Scaffhold</h3>
+<p align="justify">Today we got to know three new terms that are used in frappe first is Gunicorn:-Gunicorn is built so many different web servers can interact with it. It also does not really care what you used to build your web application - as long as it can be interacted with using the WSGI interface.Gunicorn takes care of everything which happens in-between the web server and your web application.
+
+Socket.io:-Socket.IO is a library that enables low-latency, bidirectional and event-based communication between a client and a server. It is built on top of the WebSocket protocol and provides additional guarantees like fallback to HTTP long-polling or automatic reconnection.
+
+Scaffhold:-Scaffolding is a meta-programming method of building database-backed software applications. It is a technique supported by some model-view-controller frameworks, in which the programmer may write a specification that describes how the application database may be used. The compiler uses this specification to generate code that the application can use to create, read, update and delete database entries, effectively treating the template as a "scaffold" on which to build a more powerful application.</p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
