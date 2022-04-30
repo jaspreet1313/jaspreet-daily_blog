@@ -359,4 +359,12 @@ After that we have created states and transition rules in workflow it is working
           
 <!----------------------------------------------------------------------------------------------------------------------------->
           
- 
+ <h3 align='center'>Exploration of Account Settings</h3>
+<p align="justify" I have to explore Account Settings of company like Default Bank
+Account, Default Cash Account, Default Receivable Account etc. 
+ <p>
+          
+                  
+                  
+ **Date : 23-March-2022** 
+<!----------------------------------------------------------------------------------------------------------------------------->
