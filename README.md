@@ -479,7 +479,7 @@ visible to the instructor. </p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
                   
-   <h3 align='center'>Students Vs Instructor Enrolment</h3>
+ <h3 align='center'>Students Vs Instructor Enrolment</h3>
 <p align="justify"> We were finding the solution for the task that instructor can only see
 their own assigned programs and courses . We can do it by the user
 permission list in which we can assign them a specific program. But it
@@ -489,4 +489,64 @@ visible to the instructor. </p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
+ **Date : 4-April-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+                  
+ <h3 align='center'>User Permissions</h3>
+<p align="justify">After applying the user permission to the instructor for programs and courses instructor is able to see there current programs only. When instructor is trying to access the courses they are able to access it. But when they are trying to access the programs they are getting error/ Notification:- "Not allowed for Course: Math-6 in Row 2. Restricted field: courseUser "abc@gmail.com" (instructor) does not have access to this document
+
+Insufficient Permission for Program Class-6" Now I am trying to understand how to resolve it. Because this error means that to give access to the instructor first we need to to give access of all the courses to the instructor even if they are not teaching all the courses which is unacceptable in technical terms. </p>
+
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+
+**Date : 5-April-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+                  
+<h3 align='center'>Attendence Module </h3>
+<p align="justify"> Today I am exploring that how a instructor can mark attendence of any student group. In the Student Attendance Tool, we can mark attendance based on
+Student Group and Course Schedule.
+In Course Schedule, we should first schedule the course with
+instructor, room and time. After setup the course schedule, we can
+mark attendance of all students that belongs to this course.</p>
+
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+**Date : 6-April-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+<h3 align='center'>Mark Attendence of student by different methods</h3>
+<p align="justify">Today i have explored mark attendance based on Student Group, then further there are
+three options i.e. Group based on: Batch, Course and Activity.
+
+Based on Batch: We can mark attendance of all students of a group
+based on batch that is section A or section B.
+Based on Course: Here, we can mark attendance of all students of the
+group i.e. based on course.
+Based on Activity: Here, we can mark attendance based on the Activity group. </p>
+        
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+                  
+**Date : 7-April-2022**
+<h3 align='center'>Course schedule</h3>
+<p align="justify">Today we all have implemented course scheduling via course scheduling tool , assessment plan, attendance by using attendance tool, we were also exploring the student leave application but the problem is if we have added an application for leave and also approved it but after approving if an instructor is trying to add attendance of whole class via attendence tool then it marking everyone present including students with leave application. Today we all have explored learning management system in erpnext too "https://gne11.gndec.ac.in/lms" which is basically student interface. </p>
+
+ <!----------------------------------------------------------------------------------------------------------------------------->
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+                  
+**Date : 16-April-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+                  
+<h3 align='center'>Presentation of Nankana Sahib Public School Project
+</h3>
+<p align="justify"> Today we had a meeting with Satinder Sir and a teacher from Nankana Sahib Public School. In today's meetings we all presented what we have done till now. We showed them the whole workflow to add a student. For which first we need to add a student applicant and explained that there are two methods for this one is online by using web form and another is offline after the application is accepted we can enroll them in the programs by single-2 enrollment of every student and by using the program enrollment tool and we showed them the lms interface of student how student is going to access the programs and courses and quizzes.After student section we showed them the whole working of instructor how instructor can add content like articles, videos and quizzes in lms, mark the attendance of students etc. After Instructor we presented the HR module how to generate payrolls, salary slips, attendance of employees etc.</p>
+
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+                  
 
