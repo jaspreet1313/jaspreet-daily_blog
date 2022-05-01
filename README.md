@@ -360,11 +360,109 @@ After that we have created states and transition rules in workflow it is working
 <!----------------------------------------------------------------------------------------------------------------------------->
           
  <h3 align='center'>Exploration of Account Settings</h3>
-<p align="justify" I have to explore Account Settings of company like Default Bank
+<p align="justify"> I have to explore Account Settings of company like Default Bank
 Account, Default Cash Account, Default Receivable Account etc. 
- <p>
+ </p>
           
-                  
+ <!----------------------------------------------------------------------------------------------------------------------------->
+              
                   
  **Date : 23-March-2022** 
+                  
+<!----------------------------------------------------------------------------------------------------------------------------->
+                  
+ <h3 align='center'>Imported users from .csv file</h3>
+ <p align="justify">Today I am working on employee or instructor data. First
+I sorted all the data according to the need in a separate file. After
+that we created another file to import the users with username and
+password. We also tested the user login credentials with the password
+that i give to them in the file and we are able to login with that id
+password.</p>  
+                   
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**Date : 24-March-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+<h3 align='center'> Imported Employees from .csv file</h3>
+<p align="justify"> Today I imported all the employees with another file
+using data import tool. For this we needed the user id of all the
+users so we exported all the user id's of user and added in the
+employees file. </p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+                  
+**Date : 25-March-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+<h3 align='center'>Editing of Instructor file from given csv file</h3>
+<p align="justify"> 
+
+I edited the file of instructors. In the original data of instructor, the courses and groups were in
+different format so I edited all the data in the file as per courses
+and instructor doctype requirements.
+  </p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+                  
+**Date : 26-March-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+<h3 align='center'>Imported Instructor from instructor file</h3>
+<p align="justify"> Today I imported all the instructor with another file
+using data import tool. For this we needed the employee id of all the
+employee so we exported all the employee id's of user and added in the
+employees file.  </p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+                  
+**Date : 28-March-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+<h3 align='center'> Enrolment of instructor into courses into 0i structor log</h3>
+<p align="justify"> TOday I am arranging the file of instructor . where in instructor log i gave the courses of respective instructor. </p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+                  
+**Date : 29-March-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+<h3 align='center'>Students Vs Instructor Enrolment</h3>
+<p align="justify">t has been found after adding instructors and students to the program
+and course, that only those courses are visible to the students, in
+which the enrollment has been done. But in the case of Instructors all
+the courses are visible, and he/she is able to create/delete content
+in all the courses/programs. We need to find the permissions of both
+the users, and need to find a way to make the instructor update only
+those courses to whom he/she may belong.
+
+-- </p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+                  
+ **Date : 30-March-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+<h3 align='center'>Students Vs Instructor Enrolment</h3>
+<p align="justify"> We were finding the solution for the task that instructor can only see
+their own assigned programs and courses . We can do it by the user
+permission list in which we can assign them a specific program. But it
+is only applicable in desk. After this instructor is able to see his
+own assigned programs in desk but on the lms all the programs are
+visible to the instructor. </p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 31-March-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+<h3 align='center'>Successfully imported instructor</h3>
+<p align="justify"> Successfuly imported uses, employee and instructor in NSPS  </p>
+
 <!----------------------------------------------------------------------------------------------------------------------------->
