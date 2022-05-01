@@ -432,24 +432,31 @@ employees file.  </p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
+<h3 align='center'>Import Instructor in NSPS</h3>
+<p align="justify"> Successfully imported uses, employee and instructor in NSPS. First I have created   </p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+                                  
+**Date : 30-March-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
 <h3 align='center'>Students Vs Instructor Enrolment</h3>
-<p align="justify">t has been found after adding instructors and students to the program
+<p align="justify">It has been found after adding instructors and students to the program
 and course, that only those courses are visible to the students, in
 which the enrollment has been done. But in the case of Instructors all
 the courses are visible, and he/she is able to create/delete content
 in all the courses/programs. We need to find the permissions of both
 the users, and need to find a way to make the instructor update only
 those courses to whom he/she may belong.
-
--- </p>
+                  
+<!----------------------------------------------------------------------------------------------------------------------------->
+                  
+**Date : 31-March-2022**
 
 <!----------------------------------------------------------------------------------------------------------------------------->
                   
- **Date : 30-March-2022**
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-
-<h3 align='center'>Students Vs Instructor Enrolment</h3>
+   <h3 align='center'>Students Vs Instructor Enrolment</h3>
 <p align="justify"> We were finding the solution for the task that instructor can only see
 their own assigned programs and courses . We can do it by the user
 permission list in which we can assign them a specific program. But it
@@ -458,11 +465,28 @@ own assigned programs in desk but on the lms all the programs are
 visible to the instructor. </p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 31-March-2022**
+                  
+ **Date : 31-April-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+                  
+   <h3 align='center'>Permissions to instructor</h3>
+<p align="justify"> Today I have given the permissions to Instructor so that Instructor can only see their own assigned programs and courses.After this Instructor is able to to see own assigned course . I have Check all the permissions for instructor by which he can access courses.  </p>
+
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+**Date : 31-April-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+                  
+   <h3 align='center'>Students Vs Instructor Enrolment</h3>
+<p align="justify"> We were finding the solution for the task that instructor can only see
+their own assigned programs and courses . We can do it by the user
+permission list in which we can assign them a specific program. But it
+is only applicable in desk. After this instructor is able to see his
+own assigned programs in desk but on the lms all the programs are
+visible to the instructor. </p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-<h3 align='center'>Successfully imported instructor</h3>
-<p align="justify"> Successfuly imported uses, employee and instructor in NSPS  </p>
 
-<!----------------------------------------------------------------------------------------------------------------------------->
