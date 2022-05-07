@@ -207,6 +207,7 @@ Under faculty modules I have added teachers and checked the database entries .To
 
 
 <!----------------------------------------------------------------------------------------------------------------------------->
+
 **Date : 26-Feb-2022**
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -531,12 +532,71 @@ Based on Activity: Here, we can mark attendance based on the Activity group. </p
 <!---------------------------------------------------------------------------------------------------------------------------->
                   
 **Date : 7-April-2022**
+                  
 <h3 align='center'>Course schedule</h3>
-<p align="justify">Today we all have implemented course scheduling via course scheduling tool , assessment plan, attendance by using attendance tool, we were also exploring the student leave application but the problem is if we have added an application for leave and also approved it but after approving if an instructor is trying to add attendance of whole class via attendence tool then it marking everyone present including students with leave application. Today we all have explored learning management system in erpnext too "https://gne11.gndec.ac.in/lms" which is basically student interface. </p>
+<p align="justify">Today I have implemented course scheduling via course scheduling tool , assessment plan, attendance by using attendance tool, we were also exploring the student leave application but the problem is if we have added an application for leave and also approved it but after approving if an instructor is trying to add attendance of whole class via attendence tool then it marking everyone present including students with leave application. Today we all have explored learning management system in erpnext too "https://gne11.gndec.ac.in/lms" which is basically student interface. </p>
 
  <!----------------------------------------------------------------------------------------------------------------------------->
+                 
+ **Date : 8-April-2022**
+ 
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+<h3 align='center'>Exploring LMS</h3>
+<p align="justify">Today we all have explored learning management system in erpnext too "https://gne11.gndec.ac.in/lms" which is basically student interface. </p>
+<!---------------------------------------------------------------------------------------------------------------------------->
+                  
+**Date : 9-April-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'></h3>
+<p align="justify">   </p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
+**Date : 11-April-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'></h3>
+<p align="justify">   </p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+**Date : 12-April-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'></h3>
+<p align="justify">   </p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+**Date : 13-April-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'></h3>
+<p align="justify">   </p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+**Date : 14-April-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'></h3>
+<p align="justify">   </p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+                  
+**Date : 15-April-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'></h3>
+<p align="justify">   </p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+
+
                   
 **Date : 16-April-2022**
 
