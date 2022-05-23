@@ -550,8 +550,8 @@ Based on Activity: Here, we can mark attendance based on the Activity group. </p
 
 <!----------------------------------------------------------------------------------------------------------------------------->
  
-<h3 align='center'></h3>
-<p align="justify">   </p>                                                             
+<h3 align='center'>Support Module</h3>
+<p align="justify"> Today I have explored support module in erpnext. Issue comes under support module in ERPNext. An issue is an incoming query from a customer. It’s usually done via email or from website’s Contact section. It’s good practice to maintain a separate email (e.g.support@yourbusiness.com) to keep track of incoming requests. This even enables your ERP system to pick up emails and automatically turn them into support tickets. </p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
 **Date : 11-April-2022**
@@ -609,4 +609,20 @@ Based on Activity: Here, we can mark attendance based on the Activity group. </p
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
                   
+**Date : 18-April-2022**
 
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Lead Management</h3>
+<p align="justify">   </p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+**Date : 19-April-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'></h3>
+<p align="justify">   </p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+v
