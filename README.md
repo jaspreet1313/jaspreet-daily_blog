@@ -551,23 +551,25 @@ Based on Activity: Here, we can mark attendance based on the Activity group. </p
 <!----------------------------------------------------------------------------------------------------------------------------->
  
 <h3 align='center'>Support Module</h3>
-<p align="justify"> Today I have explored support module in erpnext. Issue comes under support module in ERPNext. An issue is an incoming query from a customer. It’s usually done via email or from website’s Contact section. It’s good practice to maintain a separate email (e.g.support@yourbusiness.com) to keep track of incoming requests. This even enables your ERP system to pick up emails and automatically turn them into support tickets. </p>                                                             
+<p align="justify"> Today I have explored support module in erpnext. Issue comes under support module in ERPNext.We can track incoming queries from your email using Support Tickets. You can keep track of Customer Issues linked with a specific Serial No and respond to them based on information. You can also make Maintenance Schedules for Serial NOs and keep a record of all Maintenance Visits made to your Customers.  </p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
 **Date : 11-April-2022**
 
 <!----------------------------------------------------------------------------------------------------------------------------->
  
-<h3 align='center'></h3>
-<p align="justify">   </p>                                                             
+<h3 align='center'>Support Module</h3>
+<p align="justify"> Today I have make service level aggrement on gne11. A service level agreement (SLA) is a contract between a service provider (either internal or external) and the end user on the level of service expected from the service provider.
+
+SLAs are output-based, their purpose is specifically to define the timeline in which the Customer will receive the service. SLAs do not define how the service itself is provided or delivered. </p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
 **Date : 12-April-2022**
 
 <!----------------------------------------------------------------------------------------------------------------------------->
  
-<h3 align='center'></h3>
-<p align="justify">   </p>                                                             
+<h3 align='center'>Issue/query</h3>
+<p align="justify"> An issue is an incoming query from a customer. It’s usually done via email or from website’s Contact section. It’s good practice to maintain a separate email (e.g.support@yourbusiness.com) to keep track of incoming requests. This even enables your ERP system to pick up emails and automatically turn them into support tickets.  </p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
 **Date : 13-April-2022**
@@ -613,16 +615,64 @@ Based on Activity: Here, we can mark attendance based on the Activity group. </p
 
 <!----------------------------------------------------------------------------------------------------------------------------->
  
-<h3 align='center'>Lead Management</h3>
-<p align="justify">   </p>                                                             
+<h3 align='center'>Helpdesk</h3>
+<p align="justify">Today I tried to impliment helpdesk on gne11. where first I have created issue type. Issue Type:- An Issue can be classified using Issue Type. Examples of Issue Types are: 'Functional', 'Technical', 'Hardware', etc.
+ In case of school the issue is related to Fee, Examination,  Updation in Id card etc.
+
+
+Assignment rule: In this assignment can be done manually or auto role assignment. There we have to define Assignment condition.
+You can also set up multiple auto assignments for each Document Type, the one with the highest Priority will be applied first.
+                  
+  </p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
 **Date : 19-April-2022**
 
 <!----------------------------------------------------------------------------------------------------------------------------->
  
-<h3 align='center'></h3>
-<p align="justify">   </p>                                                             
+<h3 align='center'>Demonstration of Helpdesk</h3>
+<p align="justify">Today first I have created assignment rule for issue. In this I assigned a specific issue to a person. But it is not assigned By auto role assignment :( . I am finding where it goes wrong. I have created two roles Mentor and HOD and give them required permissions.
+Then I have created a workflow for issue. I defined the states like Open, Approved by Mentor, Closed etc and create transition rules for it and check the workflow with different roles like one student create issue then it goes to mentor, mentor can approve or reject that issue, then it will go to HOD,Till now it is working fine. </p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
-v
+                  
+**Date : 20-April-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'></h3>
+<p align="justify"></p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+                                    
+**Date : 21-April-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'></h3>
+<p align="justify"></p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+
+                  
+**Date : 23-April-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'></h3>
+<p align="justify"></p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+
+                  
+**Date : 24-April-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'></h3>
+<p align="justify"></p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+
+
+
