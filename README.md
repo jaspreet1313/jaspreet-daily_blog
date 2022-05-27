@@ -650,7 +650,17 @@ Then I have created a workflow for issue. I defined the states like Open, Approv
 <!----------------------------------------------------------------------------------------------------------------------------->
  
 <h3 align='center'></h3>
-<p align="justify"></p>                                                             
+<p align="justify">Today First I have created workflow for issue/query. When I was implementing workflow on my local my laptop got stuck in between.
+
+Then I start it on gne11.gndec.ac.in.
+In this, First i have created assignment rule and Service level agreement  for issue module.Then i was stuck in permissions. Some issues/query were visible and some were not.
+
+I checked all permissions for users. After struggle of 2 hours I got to know that issue/query was created in Nankana sahib education trust company i.e. our parent company and I was user of child company so issues/query were not visible.
+
+Then I tried by assigning company permissions to users, like I gave parent and child company to users and create issues/query with that.
+
+Finally I conclude that when a user (who have not assigned any company) creates an issue then by default issue will go in parent company and if we assign any company to user then it will visible to user of that particular company.
+</p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
 
