@@ -665,22 +665,60 @@ Finally I conclude that when a user (who have not assigned any company) creates 
 <!---------------------------------------------------------------------------------------------------------------------------->
 
                   
-**Date : 23-April-2022**
+**Date : 30-April-2022**
 
 <!----------------------------------------------------------------------------------------------------------------------------->
  
-<h3 align='center'></h3>
-<p align="justify"></p>                                                             
+<h3 align='center'>Hierarchy of NSET (Nankana Sahib Education Trust)
+</h3>
+<p align="justify">Today we have discussed the hierarchy and structure of Nanakana sahib
+education trust, gndec, nsps.
+
+Basic Structure:- First we have a parent company Nankana sahib
+education trust and under these we have child companies Guru nanak dev
+engineering college, Nankana sahib public school (21 branches), Guru
+nanak dev polytechnic college, ITI.
+
+Accounts Structure:- First we have a parent company NSET and it has a
+bank account which will take care of all the accounts of child
+companies. Under the parent company we have a child company gndec
+which also has a fee account and a salary account all the tuition fee
+of students will directly go to the fee bank account , and all the
+amount of fee bank account will be transferred to the salary account
+and all the employees will get their salaries from the salary account.
+All the development fee will be directly transferred to the
+development account. For the development company will get the
+amount/fund from  the development account.</p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
 
                   
-**Date : 24-April-2022**
+**Date : 1-May-2022**
 
 <!----------------------------------------------------------------------------------------------------------------------------->
  
-<h3 align='center'></h3>
-<p align="justify"></p>                                                             
+<h3 align='center'>Hierarchy of NSET (Nankana Sahib Education Trust)</h3>
+<p align="justify">Roles  in NSET:- In the nankana sahib education trust we have
+president , director, managerial staff and under the president we have
+sub roles for other users, secretary, and trustees. and under the
+managerial staff we have clerks and accountant. Only the received
+amounts and all benefits should be visible to the instructor. Only the
+accounts part should be visible to the director.Clerk is responsible
+for all the inventories stocks. Clerk2 will be responsible for the
+hostlers fee.And they should be able to see only their assigned
+company details.
+
+NSET:-
+In NSET company we have a director role which should have access to
+all the child companies. All the child companies GNDEC, NSPS have a
+principal.After that other staff is divided into two sections one is
+Non-teaching and other is teaching.Under the non-teaching staff we
+have clerks, accountants, assistants and other staff. Teaching section
+is further divided into Examination, student section(admissions etc),
+Establishment, Department. The examination staff will take care of
+examinations of companies, the student section will take care of the
+students admissions,fees etc.In the departments we have the role of
+HOD, section incharge, staff.</p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
 
