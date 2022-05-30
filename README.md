@@ -839,8 +839,16 @@ the same thing doing entries one by one. I think csv is more productive than scr
 <!----------------------------------------------------------------------------------------------------------------------------->
  
 <h3 align='center'>Asset Module</h3>
-<p align="justify">  I am done with the course scheduling. Now I am exploring the
-asset module as it was assigned to me the other day. </p>                                                             
+<p align="justify">  Today I am done with the course scheduling. Now I am exploring the
+asset module as it was assigned to me the other day.
+Asset: In ERPNext, We can maintain fixed asset records for Company assets like computers, furniture, cars, etc. and manage their depreciations, sale. It is any valuable item owned by a company.
+Asset category: Asset Category based on the type of assets. For example, all desktops and laptops can be part of an Asset Category named 'Electronic Equipments'.
+
+Types of assets:
+Assets can be an existing asset which has been bought earlier and it can be a newly purchased item.
+For new assets, we cannot create the asset record directly from the Asset form. We need to create a Purchase Receipt/Invoice for it.
+Before creating an asset we need to create an item with 'is fixed asset' and create a purchase receipt against that item.
+ </p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
                   
@@ -849,7 +857,20 @@ asset module as it was assigned to me the other day. </p>
 <!----------------------------------------------------------------------------------------------------------------------------->
  
 <h3 align='center'>Asset Module</h3>
-<p align="justify">   </p>                                                             
+<p align="justify">  Asset Reports:
+
+Asset Depreciation Ledger
+This report shows the Purchase Amount, Depreciated Amount and
+accumulated total depreciation for all the assets under the selected
+date range. It also shows the current value and current depreciation
+status of the Asset.
+
+Fixed Asset Register
+Fixed asset register provides a unified view of all the details
+regarding current status of an asset. A Fixed asset register tracks
+all the fixed assets that the you have created. This not only includes
+assets that are currently in your possession, but also tracks those
+assets that are disposed. </p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
 **Date : 13-May-2022**
@@ -860,6 +881,26 @@ asset module as it was assigned to me the other day. </p>
 <p align="justify">   </p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
+
+**Date : 14-May-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Asset Module</h3>
+<p align="justify">   </p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+
+
+**Date : 15-May-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Asset Module</h3>
+<p align="justify">   </p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+
 
 
 
