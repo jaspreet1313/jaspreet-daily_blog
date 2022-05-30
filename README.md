@@ -688,17 +688,8 @@ amount of fee bank account will be transferred to the salary account
 and all the employees will get their salaries from the salary account.
 All the development fee will be directly transferred to the
 development account. For the development company will get the
-amount/fund from  the development account.</p>                                                             
-                  
-<!---------------------------------------------------------------------------------------------------------------------------->
-
-                  
-**Date : 1-May-2022**
-
-<!----------------------------------------------------------------------------------------------------------------------------->
- 
-<h3 align='center'>Hierarchy of NSET (Nankana Sahib Education Trust)</h3>
-<p align="justify">Roles  in NSET:- In the nankana sahib education trust we have
+amount/fund from  the development account.
+Roles  in NSET:- In the nankana sahib education trust we have
 president , director, managerial staff and under the president we have
 sub roles for other users, secretary, and trustees. and under the
 managerial staff we have clerks and accountant. Only the received
@@ -722,5 +713,154 @@ HOD, section incharge, staff.</p>
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
 
+                
+**Date : 2-May-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Hackathon Day 1</h3>
+<p align="justify">Roles for Nankana Sahib Education trust :-
+
+Director:- Director will have all permissions like fees, salary,
+accounts , total gain etc but with read only access.
+Accountant:- will have permissions to see all the account information
+of trust, nsps, gndec.     Accountant will have read, write access to
+create the fee and salaries of the employee and also can create the
+fee report and salary report.
+HR:- HR will have permission to create the users and make them
+employees, leave allocation, holiday list, salary of employee.
+Superintendent
+
+Roles and flow for Nankana Sahib Public School:-
+
+Principal:- Will have only read only access to all the education
+domain related information and HR related information.
+
+ Accountants:- 1 For students fee and 1 for salaries of employees.
+Teaching Incharge:-  Will do all the tasks of academic user like
+course scheduling etc.
+
+HR:- will create employees and instructors only for Nankana sahib
+Public School, leave allocation, salary of employees etc. We need to
+show all the reports like employees attendance report, salary report,
+leave report etc to the HR..
+
+Instructors:- will have access to student attendance, quiz, videos,
+article, Diary, Student list etc.
+
+Students:- will have access of only LMS and on lms they will have
+access of programs, Courses, Quizzes, Videos, Articles, daily diary
+and attendance.
+
+Accountant:- will create the salaries of employees and fees of
+students, will generate the balance sheet.
+
+We need to generate all the reports and graphs for necessary
+information for each role.
+</p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+                  
+**Date : 3-MAy-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Hackathon Day 2</h3>
+<p align="justify">   Today, We created Director user of NSET, Superintendent of NSET,
+Principal user of NSPS and HR user of NSPS on erp server and gave them
+all the required permissions. And same roles are created on gne11.GNE,
+whose credentials are shared in other mail. You can check that roles
+with given credentials. Also we learn about Salary Structure and
+Salary Component of employees. In meeting with Harpreet sir, we learn
+about PF, Taxes, Funds, Earnings and Deductions etc. We will explore
+it and implement on gne11.GNE.
+</p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+
+ **Date : 4-May-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+<h3 align='center'>Notice Board App </h3>
+<p align="justify">First we created an app named Gndec_NoticeBoard and installed it on
+gne11.gndec.ac.in. Then we created a doctype named Gndec_NoticeBoard
+with field names title,content,attachment, signature etc.
+As we want that Clerk will create notice and HOD will approve, reject
+or reassign it. So we created two roles: HOD and Clerk and gave them
+required permissions for Notices.
+Then we created a workflow named Notice for Gndec_NoticeBoard. Here we
+define states like Draft, Approves, Pending etc. and Transition Rules
+like first Clerk will create a notice, after approved by clerk it will
+go to HOD then HOD will approve it or reassign it to Clerk. If HOD
+reassigns it then it will go to Clerk in Draft state, here clerk can
+edit it and resend it to HOD. If HOD wants to reject it, then first he
+needs to click on Pending then he can reject it, after rejecting by
+HOD it will go to the Clerk and the clerk can delete it.
+Then we test the workflow with different roles and it is working nicely. </p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+                  
+ **Date : 5-May-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Creating Presentation in Revel.js</h3>
+<p align="justify"> Created Presentation for the Whole Project To so that we can present our work to the trusties so with the team we created a presentation which contains all the infomation related to the erp Syatem which deals with the all kind of accounting, maintaing all students,staff and employees and pushed on github.  </p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+**Date : 6-May-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Scheduling Time-Table</h3>
+<p align="justify">  Tody I have tried scheduling Time-Table with some dummy Entries on
+https://gne11.gndec.ac.in/. If we want to see the Time-table of a particular instructor, then it
+is available in that instructor's profile and also we can see that
+from course scheduling list just by entering the instructor's name.</p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+
+**Date : 10-May-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Arranging Time Table file </h3>
+<p align="justify"> Today, After exploring, we thought there is no use of writing script. We think script is useful where we have to do the same things
+again and again.
+But in our case, we will have different time-table for different
+schools,  so in script we will have to give input for each TT which is
+the same thing doing entries one by one. I think csv is more productive than script.  So Today I have arranged Time Table csv file.
+  </p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+**Date : 11-May-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Asset Module</h3>
+<p align="justify">  I am done with the course scheduling. Now I am exploring the
+asset module as it was assigned to me the other day. </p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+                  
+**Date : 12-May-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Asset Module</h3>
+<p align="justify">   </p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+**Date : 13-May-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Asset Module</h3>
+<p align="justify">   </p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
 
 
+
+                               
