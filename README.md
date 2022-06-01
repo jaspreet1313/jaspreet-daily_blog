@@ -877,8 +877,15 @@ assets that are disposed. </p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
  
-<h3 align='center'>Asset Module</h3>
-<p align="justify"></p>                                                             
+<h3 align='center'>Stock and Asset module in ERPNext</h3>
+<p align="justify">Stock, Buying and Accounting modules are inter linked with
+each other.
+It is so complex. We are trying to understand terms like General
+Ledger, Journal Entry, Purchase Receipt, Depreciation Ledger, Fixed
+Asset Register etc.
+Till now, we don't know which type of data is required. Sir we are
+working on it.
+</p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
 
@@ -886,22 +893,163 @@ assets that are disposed. </p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
  
-<h3 align='center'>Asset Module</h3>
-<p align="justify">   </p>                                                             
+<h3 align='center'>Stock module</h3>
+<p align="justify"> Today, we have created Item Groups, Items, Warehouses, Suppliers etc.
+
+Item Group:
+Create parent and child item groups for different categories of items.
+
+Item:
+Create items from Stock > Item. If we want to maintain the stock for
+particular item then we have to enable "Maintain Stock" option while
+creating Item. After creating item with "Maintain Stock" field
+checked, the Stock Entry, Stock Ledger, Accounting Ledger will created
+automatically.
+
+Warehouse:
+If "Perpetual Inventory" option enabled in warehouse, then accounting
+entry is automatically done for every stock transaction.
+If "Perpetual Inventory" disabled, user will have to manage the
+account entries manually.
+
+Supplier:
+Create Supplier and add contact and email of supplier. We can make
+User of this Supplier also. With this, Supplier will not have access
+to desk, he can create Supplier Quotation etc from website only.
+
+We have checked this by creating entries on gne11.gndec.ac.in
+  </p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
 
 
-**Date : 15-May-2022**
+**Date : 16-May-2022**
 
 <!----------------------------------------------------------------------------------------------------------------------------->
  
-<h3 align='center'>Asset Module</h3>
-<p align="justify">   </p>                                                             
+<h3 align='center'>Stock  Module</h3>
+<p align="justify"> Today , We add item in the warehouse, we have to create stock. We have
+following two ways to create stock;
+
+If item is non serialized/non batched then we have to add entry in
+Stock Reconciliation. If item is serialized and Serial Number Series
+is defined for particular item, then also we can add entry here.
+If item is serialized/batched then add entry in Stock Entry with Entry
+Type "Material Receipt". Here we have to define serial number or batch
+number of items.
+
+After adding entry in Stock Reconciliation or Stock Entry, the item
+with specified quantity will be added in stock. We can check it in
+Stock Ledger Report.
+  </p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
 
 
 
+**Date : 17-May-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Buying  Module</h3>
+<p align="justify"> Today, we have to create a "Material Request" with the
+purpose "Purchase". Here we have to set the quantity of required items
+and warehouse for which they are required.
+
+We can create it manually or through re-order item in items i.e. If
+item quantity goes below the re-order level of item then material
+request will be created automatically.  </p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+
+
+
+**Date : 18-May-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Buying Module</h3>
+<p align="justify">After creating Material Request, we can create "Request For Quotation"
+from Material Request.
+In this we can send the request to multiple suppliers for multiple
+items. An email will be sent to the supplier with the "Supplier
+Quotation" link. From this link, Suppliers can submit their
+quotations. Then these quotations will be visible to us in the
+"Supplier Quotation" list. It will be in draft state, we have to
+submit it.   </p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+
+
+
+**Date : 19-May-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Buying  Module</h3>
+<p align="justify"> From "Supplier Quotation", we have to create "Purchase Order" (A
+Purchase Order is a binding contract with your Supplier that you
+promise to buy a set of items under given conditions).
+We can create "Purchase Receipt" after "Purchase Order". After
+creation of Purchase Receipt, Items will be added in our warehouses.
+We can check item's entry in Stock Ledger Report.  </p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+
+
+
+**Date : 20-May-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Buying  Module</h3>
+<p align="justify"> We can create "Purchase Invoice" (
+A Purchase Invoice is a bill you receive from your Suppliers against
+which you need to make the payment) after "Purchase Receipt". Also we
+can create it after "Purchase Order". In "Account Payable", we can
+check Invoice Amount, Outstanding Amount, Paid amount etc.
+
+After "Purchase Invoice" we can create "Payment". After paying,
+Invoice status will be changed to "Paid" and also now this invoice
+will not available in Account Payable Report.  </p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+
+
+
+**Date : 21-May-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Desk View
+Inbox</h3>
+<p align="justify">  we are finding a way to beautify the desk theme.
+  </p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+
+
+
+**Date : 22-May-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Desk View</h3>
+<p align="justify">We were trying by installing an app from this url
+https://github.com/hashirluv/redtheme_v13b
+With this colour of heading and navigation bar got changed.
+  </p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+**Date : 24-May-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Desk View
+Inbox</h3>
+<p al
+  </p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
 
                                
