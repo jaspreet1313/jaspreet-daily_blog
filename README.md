@@ -8,7 +8,7 @@
 - Creating Boot pendrive using rufus.exe in windows.
 - Restart the system and open boot menu using boot key. (Eg.- F8, F2 etc.)
 - Select your boot device in boot menu.
-- Select Install Ubuntu then Click Noraml Installation.
+- Select Install Ubuntu then Click Normal Installation.
 - Select where to install alongside window or Erase disk or something else.
 - Then Click next and start ubuntu installation.
 - For More detail about Installation Guide [Click here](https://phoenixnap.com/kb/install-ubuntu-20-04)
@@ -72,8 +72,6 @@
 
 Budibase is an all-in-one low-code platform for building, designing, and automating business apps, such as; admin panels, forms, internal tools, client portals, and more. Before Budibase, it could take developers weeks to build simple CRUD apps; with Budibase, building CRUD apps takes minutes.
 
-**Why Budibase ?**
-
 Today i am installing docker for hosting app in budibase .It is successfully installed. But i got error during 'setting up budibase'.Not solved yet. I follow "https://github.com/Budibase/docs/tree/master/self-hosting" .
 <br>
 
@@ -98,6 +96,7 @@ time.</p>
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 **Date : 11-Feb-2022** 
+
 <h3 align='center'>Create a CRUD app in budibase</h3>
 
 <p align="justify">Building apps with Budibase involves 4 simple steps:
@@ -123,6 +122,7 @@ For creating CRUD app click on "https://docs.budibase.com/docs/build-a-crud-app"
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 **Date : 14-Feb-2022**
+
 <h3 align='center'>Understanding the concept of budibase app </h3>
 I am currently working on budibase. Today i was reading the concept of apps that how they are created in Budibase.
 I haven’t done anything extra on budibase except reading the documentation and understanding the concept of built- in apps in budibase
@@ -130,8 +130,9 @@ I haven’t done anything extra on budibase except reading the documentation and
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 **Date : 15-Feb-2022**
+
 <h3 align='center'>Working on Job portal app in budibase</h3>
-if you want to access a budibase app without login, you will need to make some "Public" screens, and browse directly to the URL for those screens.
+Today I am working on Job portal app. If we want to access a budibase app without login, you will need to make some "Public" screens, and browse directly to the URL for those screens.
 
 You will also need to make sure that your public screens are only accessing tables/queries that have "Public" access. Beware that this will mean that all data in those tables will be public (if "Read" is set to Public).
 And I successfully make all screens public.
@@ -143,11 +144,11 @@ I checked how all pages are created in job portal app. How it to be published.
 **Date : 17-Feb-2022**
 <h3 align='center'>Create CRUD app using MySQL in budibase</h3>
 
-For creating CRUD app click on "https://docs.budibase.com/docs/build-a-crud-app".<br>
+Today I am creating CRUD App. For creating CRUD app click on "https://docs.budibase.com/docs/build-a-crud-app".<br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-**Date : 16-March-2022**
+**Date : 18-Feb-2022**
 
 <h3 align='center'>Creating LMS </h3>
 <p align="justify"></p>
@@ -173,7 +174,7 @@ Tmux: Tmux is a Linux application that allows multitasking in a terminal window.
 
 
 <h3 align='center'>Working on ERPNext </h3>
-<p align="justify">Today i started working on new platform erpnext it is open source, and low code or no platform.Today i am reading the documentation of erpnext to understand the education domain. Today i have created some programs and courses now i am trying to understand how to enroll students in programs and courses.</p>
+<p align="justify">Today i started working on new platform erpnext. It is open source, and low code or no platform.Today i am reading the documentation of erpnext to understand the education domain. Today i have created some programs and courses now i am trying to understand how to enroll students in programs and courses.</p>
 
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -181,7 +182,7 @@ Tmux: Tmux is a Linux application that allows multitasking in a terminal window.
 **Date : 23-Feb-2022**
 
 <h3 align='center'>Working on erpnext </h3>
-Today sir has assigned the task to explore education domain.I am reading the documentation and trying to understand it.
+Today sir has assigned the task to explore education domain.I am reading the documentation and trying to understand it.First for setup of education domain. We have to follow steps like creat progam, Courses, Students etc.
 <p align="justify"> </p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
