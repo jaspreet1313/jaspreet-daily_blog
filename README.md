@@ -275,7 +275,20 @@ A Service Level Agreement (or SLA) is a contract between the service provider (e
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
+
 **Date : 04-March-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+<h3 align='center'> Workflow for Issue </h3>
+<p align="justify">Today I am reading about workflow of Issue.
+Whenever a customer sends a message to support email address or using their contact page, the system automatically creates a support ticket.
+The support ticket is evaluated by the team and assigned a priority, based on which the SLA is sent out to the customer.
+Depending on the issue type, the appropriate employee takes on the issue and does what they can to help resolve it.</p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**Date : 05-March-2022**
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
@@ -285,7 +298,7 @@ A Service Level Agreement (or SLA) is a contract between the service provider (e
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 
-**Date : 05-March-2022**
+**Date : 07-March-2022**
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
@@ -296,7 +309,7 @@ fields like title, content, date, signature, attachments. </p>
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 
-**Date : 7-March-2022**
+**Date : 8-March-2022**
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
@@ -314,7 +327,7 @@ Next I created Assessment plan which is schedule to conduct the examination/asse
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-**Date : 08-March-2022**
+**Date : 09-March-2022**
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
@@ -324,7 +337,7 @@ Next I created Assessment plan which is schedule to conduct the examination/asse
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-**Date : 09-March-2022**
+**Date : 10-March-2022**
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
@@ -335,25 +348,16 @@ Web View is for users who need to interact with an ERPNext instance occasionally
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-**Date : 10-March-2022**
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-
-<h3 align='center'> </h3>
-<p align="justify"> </p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-
-
 **Date : 11-March-2022**
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-<h3 align='center'> </h3>
-<p align="justify"> </p>
+<h3 align='center'> Web Form</h3>
+<p align="justify">Today I am exploring that Frappe provides an easy way to generate forms for your website with very little configuration. These forms may be public (anyone can fill them up) or can be configured to require login.
+
+  </p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-
 
 
 **Date : 12-March-2022**
