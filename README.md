@@ -494,7 +494,7 @@ employees file. </p>
 <h3 align='center'>Editing of Instructor file from given csv file</h3>
 <p align="justify"> 
 
-I edited the file of instructors. In the original data of instructor, the courses and groups were in
+Today I edited the file of instructors. In the original data of instructor, the courses and groups were in
 different format so I edited all the data in the file as per courses
 and instructor doctype requirements.
   </p>
@@ -517,8 +517,8 @@ employees file.  </p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-<h3 align='center'> Enrolment of instructor into courses into 0i structor log</h3>
-<p align="justify"> TOday I am arranging the file of instructor . where in instructor log i gave the courses of respective instructor. </p>
+<h3 align='center'> Enrolment of instructor into courses into structor log</h3>
+<p align="justify"> Today I am arranging the file of instructor . where in instructor log I gave the courses of respective instructor. </p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
                   
@@ -527,7 +527,10 @@ employees file.  </p>
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 <h3 align='center'>Import Instructor in NSPS</h3>
-<p align="justify"> Successfully imported uses, employee and instructor in NSPS. First I have created   </p>
+<p align="justify"> Successfully imported uses, employee and instructor in NSPS. First I have created User, Employee. I edited the file of instructors. In the original data of instructor
+which was provided by vishal , the courses and groups were in
+different format so I edited all the data in the file as per courses
+and instructor doctype requirements.  </p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
                                   
