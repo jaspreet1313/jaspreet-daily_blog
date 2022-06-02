@@ -174,7 +174,7 @@ Tmux: Tmux is a Linux application that allows multitasking in a terminal window.
 
 
 <h3 align='center'>Working on ERPNext </h3>
-<p align="justify">Today i started working on new platform erpnext. It is open source, and low code or no platform.Today i am reading the documentation of erpnext to understand the education domain. Today i have created some programs and courses now i am trying to understand how to enroll students in programs and courses.</p>
+<p align="justify">Today I started working on new platform erpnext. It is open source, and low code or no platform.Today I am reading the documentation of erpnext to understand the education domain. Today I have created some programs and courses now i am trying to understand how to enroll students in programs and courses.</p>
 
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -182,7 +182,7 @@ Tmux: Tmux is a Linux application that allows multitasking in a terminal window.
 **Date : 23-Feb-2022**
 
 <h3 align='center'>Working on erpnext </h3>
-Today sir has assigned the task to explore education domain.I am reading the documentation and trying to understand it.First for setup of education domain. We have to follow steps like creat progam, Courses, Students etc.
+Today sir has assigned the task to explore education domain. I am reading the documentation and trying to understand it. First for setup of education domain. We have to follow steps like Create progam, Courses, Students etc.
 <p align="justify"> </p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -201,10 +201,13 @@ Under faculty modules I have added teachers and checked the database entries .To
 **Date : 25-Feb-2022**
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-<h3 align='center'> basic setup of education domain</h3>
+<h3 align='center'> Basic setup of Education domain</h3>
 
 <p align="justify"> </p>
  Today I have done the basic setup of education.First I created Student, Student group etc.
+The Student document will hold all the data of any Student in your Academy like their Personal Information, Photo, Date of Birth, Address, etc.
+This form will also contain any additional details like the Student's Guardian and Sibling details.
+A student group is a collection of students from the same batch or taking the same course.
 
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -213,7 +216,7 @@ Under faculty modules I have added teachers and checked the database entries .To
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-<h3 align='center'>basic setup of education Student Module </h3>
+<h3 align='center'>Basic setup of Education Student Module </h3>
 
 <p align="justify"> I am uderstanding the concept of Student module in erpnext.I created Student category Academic year, Academic Term  etc.
 </p>
@@ -236,13 +239,15 @@ according to a school and done it on my local.
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 <h3 align='center'> Course Sceduling Module</h3>
-<p align="justify"> Today I implementing the course Schedule on my local. Using this , a time table or an itinerary can be created in the Institute, where in each slot will be scheduled via Course schedule.We can mark attendance for a Student Group against a Course Schedule.</p>
+<p align="justify"> Today I implementing the course Schedule on my local. Using this , a Time table can be created in the Institute, where in each slot will be scheduled via Course schedule.We can mark attendance for a Student Group against a Course Schedule.</p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 
-**Date : 01-March-2022**
+**Date : 02-March-2022**
+
 <!----------------------------------------------------------------------------------------------------------------------------->
+
 <h3 align='center'> Support Module</h3>
 <p align="justify">I am exploring Managing issue web form.
 Issue can be created in two ways. One is through the web portal after logged in and issue is created in the backend. Another one is through emails on support address and issue is created in the backend.
@@ -250,7 +255,48 @@ Issue can be created in two ways. One is through the web portal after logged in 
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-**Date : 11-March-2022**
+
+**Date : 03-March-2022**
+<!----------------------------------------------------------------------------------------------------------------------------->
+<h3 align='center'> Support Module</h3>
+<p align="justify">Today I have explored following terms:-
+ Issues
+An incoming query from a customer. It’s usually done via email or from your website’s Contact section. It’s good practice to maintain a separate email (e.g., support@yourbusiness.com) to keep track of incoming customer requests. This even enables your ERP system to pick up emails and automatically turn them into support tickets.
+
+Issue Type
+Classifying issues into different categories (e.g., technical, functional, hardware, etc.) lets you easily assign the right employee to the support ticket. Each category is called an issue type.
+
+Issue Priority
+You can assign different priority levels to every support ticket. A basic system is Low -> Medium -> High -> Critical. Setting priorities helps the maintenance/support employees to tackle tickets in the right order. It also affects the Service Level Agreement (see below).
+
+Service Level Agreement
+A Service Level Agreement (or SLA) is a contract between the service provider (either internal or external) and the customer who has raised the support ticket. It is used to define the timeline in which the customer will receive the service, not how the service itself is delivered or provided. This timeline can vary depending on the priority level of the issue.
+  </p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**Date : 04-March-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+<h3 align='center'> Meeting app</h3>
+<p align="justify">Today vishal and pawan gave us a presentation of meeting app. They showed us how to create custom apps in erp and how to install it onto the site. And they also showed us the code of the app and structure and files of the meeting app. Working on instructure section of education module of erpnext. </p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+
+**Date : 05-March-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+<h3 align='center'> Notice Board App</h3>
+<p align="justify">Today we all created a notice board app in erpnext within 30 minutes. It was a wonderful experience as we can created such apps withiin a short time period.We have created a notice board module in erpnext. Then we have created a doctype named Notice board with some required
+fields like title, content, date, signature, attachments. </p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+
+**Date : 7-March-2022**
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
@@ -267,6 +313,47 @@ Next I created Assessment plan which is schedule to conduct the examination/asse
  </p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
+
+**Date : 08-March-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+<h3 align='center'> Attendance module in Erpnext</h3>
+<p align="justify">Today, I studied about how to mark attendance in erpnext. There are two methods to mark attendance:- using Student attendance and Student Attendance tool. For marking attendance of single student we can use student attendance and for bulk entries, we can use student attendance tool.
+ </p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**Date : 09-March-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+<h3 align='center'>Web Form in Erpnext  </h3>
+<p align="justify"> Today I have explored that There are two types of in-built interfaces available in ERPNext. The Desk View and the Web View. Desk is for users who regularly interact with ERPNext instance, like employees of your organization.
+
+Web View is for users who need to interact with an ERPNext instance occasionally. Web forms are similar to the forms you generally fill in various websites on the internet. Webforms are part of the Web View interface in ERPNext.</p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**Date : 10-March-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+<h3 align='center'> </h3>
+<p align="justify"> </p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+
+**Date : 11-March-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+<h3 align='center'> </h3>
+<p align="justify"> </p>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
 
 
 **Date : 12-March-2022**
@@ -325,17 +412,8 @@ based on Assessment plan.
  
 <!----------------------------------------------------------------------------------------------------------------------------->
  
+
 **Date : 18-March-2022**
-
-<h3 align='center'>Report Card Generation
- in Nankana sahib public school</h3>
-<p align="justify">In the erpnext education module I was trying to generate report card for students while creating report card I am able to show the courses and exams but not able to show the marks of students in the report card,
-
-</p>
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-
-**Date : 19-March-2022**
 
 <h3 align='center'>Gunicorn, Socket.io, Scaffhold</h3>
 <p align="justify">Today we got to know three new terms that are used in frappe first is Gunicorn:-Gunicorn is built so many different web servers can interact with it. It also does not really care what you used to build your web application - as long as it can be interacted with using the WSGI interface.Gunicorn takes care of everything which happens in-between the web server and your web application.
@@ -346,7 +424,7 @@ Scaffhold:-Scaffolding is a meta-programming method of building database-backed 
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-**Date : 21-March-2022**
+**Date : 19-March-2022**
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
@@ -357,13 +435,23 @@ After that we have created states and transition rules in workflow it is working
 
 <!----------------------------------------------------------------------------------------------------------------------------->
           
-**Date : 22-March-2022**
+**Date : 21-March-2022**
           
 <!----------------------------------------------------------------------------------------------------------------------------->
           
  <h3 align='center'>Exploration of Account Settings</h3>
 <p align="justify"> I have to explore Account Settings of company like Default Bank
 Account, Default Cash Account, Default Receivable Account etc. 
+ </p>
+          
+ <!----------------------------------------------------------------------------------------------------------------------------->
+              
+  **Date : 22-March-2022**
+          
+<!----------------------------------------------------------------------------------------------------------------------------->
+          
+ <h3 align='center'>Reading the excellent reports by seniors</h3>
+<p align="justify">Today I was reading the three report that was written by our seniors. 1.The report is based on the language translator in which a group is trying to understand the role of lex and parser. It was  quite interesting to read . This report hooked me till the end to read. I learned if we combine technical terms  with real life things we will remember the things and learn more.
  </p>
           
  <!----------------------------------------------------------------------------------------------------------------------------->
