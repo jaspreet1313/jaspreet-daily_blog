@@ -150,14 +150,17 @@ Today I am creating CRUD App. For creating CRUD app click on "https://docs.budib
 
 **Date : 18-Feb-2022**
 
-<h3 align='center'>Creating LMS </h3>
-<p align="justify"></p>
+<h3 align='center'>Creating Library Management App </h3>
+<p align="justify">As per official documentation I create Library Management App. 
+ - Install app on site then creating doctype.
+ - Use Features like Naming Series, Permission Rules. Learn Controller methods, Doctype Features, Form Scripts.
+ - Adding Web view for preview Articles on web.</p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 **Date : 19-Feb-2022**
 
-<h3 align='center'>Creating LMS </h3>
+<h3 align='center'>Creating Library Management App </h3>
 <p align="justify"></p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -433,7 +436,7 @@ Scaffhold:-Scaffolding is a meta-programming method of building database-backed 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 <h3 align='center'>Creating workflow for Student Admission</h3>
-<p align="justifyoday we were trying to create a workflow for student applicant in erpnext as per the structure given by satinder sir . For that we created a user named admission checker and set permission for the user.
+<p align="justify">Today we were trying to create a workflow for student applicant in erpnext as per the structure given by satinder sir . For that we created a user named admission checker and set permission for the user.
 
 After that we have created states and transition rules in workflow it is working properly now we are trying to add fee section in student applicant list<p>
 
@@ -455,7 +458,7 @@ Account, Default Cash Account, Default Receivable Account etc.
 <!----------------------------------------------------------------------------------------------------------------------------->
           
  <h3 align='center'>Reading the excellent reports by seniors</h3>
-<p align="justify">Today I was reading the three report that was written by our seniors. 1.The report is based on the language translator in which a group is trying to understand the role of lex and parser. It was  quite interesting to read . This report hooked me till the end to read. I learned if we combine technical terms  with real life things we will remember the things and learn more.
+<p align="justify">Today I was reading the three report that was written by our seniors. The report is based on the language translator in which a group is trying to understand the role of lex and parser. It was  quite interesting to read . This report hooked me till the end to read. I learned if we combine technical terms  with real life things we will remember the things and learn more.
  </p>
           
  <!----------------------------------------------------------------------------------------------------------------------------->
@@ -517,7 +520,7 @@ employees file.  </p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-<h3 align='center'> Enrolment of instructor into courses into structor log</h3>
+<h3 align='center'> Enrolment of instructor into courses instructor log</h3>
 <p align="justify"> Today I am arranging the file of instructor . where in instructor log I gave the courses of respective instructor. </p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -527,10 +530,8 @@ employees file.  </p>
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 <h3 align='center'>Import Instructor in NSPS</h3>
-<p align="justify"> Successfully imported uses, employee and instructor in NSPS. First I have created User, Employee. I edited the file of instructors. In the original data of instructor
-which was provided by vishal , the courses and groups were in
-different format so I edited all the data in the file as per courses
-and instructor doctype requirements.  </p>
+<p align="justify"> Successfully imported user, employee and instructor in NSPS. First I have created User, Employee. I edited the file of instructors. In the original data of instructor which was provided to us , the courses and groups were in
+different format so I edited all the data in the file as per courses and instructor doctype requirements.  </p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
                                   
@@ -633,34 +634,47 @@ Based on Activity: Here, we can mark attendance based on the Activity group. </p
 <p align="justify">Today I have implemented course scheduling via course scheduling tool , assessment plan, attendance by using attendance tool, we were also exploring the student leave application but the problem is if we have added an application for leave and also approved it but after approving if an instructor is trying to add attendance of whole class via attendence tool then it marking everyone present including students with leave application. Today we all have explored learning management system in erpnext too "https://gne11.gndec.ac.in/lms" which is basically student interface. </p>
 
  <!----------------------------------------------------------------------------------------------------------------------------->
-                 
+ 
  **Date : 8-April-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Reading the files of LMS
+</h3>
+<p align="justify"> As by using user permissions still instructor was able to see all the programs and courses. To find the solution for this we are trying to understand the structure of lms for this i was reading all the files of lms present in erpnext in the programs and course file it is metioned that by default instructor has access to all the programs and courses.
+
+  </p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+                 
+ **Date : 9-April-2022**
  
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 <h3 align='center'>Exploring LMS</h3>
-<p align="justify">Today we all have explored learning management system in erpnext too "https://gne11.gndec.ac.in/lms" which is basically student interface. </p>
+<p align="justify">Today we all have explored learning management system in erpnext too "https://gne11.gndec.ac.in/lms" which is basically student interface. Here we checked that we can only show the programs to the student.In which quiz , article, video content is show.</p>
 <!---------------------------------------------------------------------------------------------------------------------------->
-                  
-**Date : 9-April-2022**
 
-<!----------------------------------------------------------------------------------------------------------------------------->
- 
-<h3 align='center'>Support Module</h3>
-<p align="justify"> Today I have explored support module in erpnext. Issue comes under support module in ERPNext.We can track incoming queries from your email using Support Tickets. You can keep track of Customer Issues linked with a specific Serial No and respond to them based on information. You can also make Maintenance Schedules for Serial NOs and keep a record of all Maintenance Visits made to your Customers.  </p>                                                             
                   
-<!---------------------------------------------------------------------------------------------------------------------------->
 **Date : 11-April-2022**
 
 <!----------------------------------------------------------------------------------------------------------------------------->
  
+<h3 align='center'>Support Module on gne11</h3>
+<p align="justify"> Today I am trying support module in erpnext. Issue comes under support module in ERPNext.We can track incoming queries from your email using Support Tickets. You can keep track of Customer Issues linked with a specific Serial No and respond to them based on information. You can also make Maintenance Schedules for Serial NOs and keep a record of all Maintenance Visits made to your Customers.  </p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+**Date : 12-April-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
 <h3 align='center'>Support Module</h3>
-<p align="justify"> Today I have make service level aggrement on gne11. A service level agreement (SLA) is a contract between a service provider (either internal or external) and the end user on the level of service expected from the service provider.
+<p align="justify"> Today I create service level aggrement on gne11. A service level agreement (SLA) is a contract between a service provider (either internal or external) and the end user on the level of service expected from the service provider.
 
 SLAs are output-based, their purpose is specifically to define the timeline in which the Customer will receive the service. SLAs do not define how the service itself is provided or delivered. </p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
-**Date : 12-April-2022**
+**Date : 13-April-2022**
 
 <!----------------------------------------------------------------------------------------------------------------------------->
  
@@ -668,29 +682,14 @@ SLAs are output-based, their purpose is specifically to define the timeline in w
 <p align="justify"> An issue is an incoming query from a customer. It’s usually done via email or from website’s Contact section. It’s good practice to maintain a separate email (e.g.support@yourbusiness.com) to keep track of incoming requests. This even enables your ERP system to pick up emails and automatically turn them into support tickets.  </p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
-**Date : 13-April-2022**
-
-<!----------------------------------------------------------------------------------------------------------------------------->
- 
-<h3 align='center'></h3>
-<p align="justify">   </p>                                                             
-                  
-<!---------------------------------------------------------------------------------------------------------------------------->
-**Date : 14-April-2022**
-
-<!----------------------------------------------------------------------------------------------------------------------------->
- 
-<h3 align='center'></h3>
-<p align="justify">   </p>                                                             
-                  
-<!---------------------------------------------------------------------------------------------------------------------------->
-                  
+            
 **Date : 15-April-2022**
 
 <!----------------------------------------------------------------------------------------------------------------------------->
  
-<h3 align='center'></h3>
-<p align="justify">   </p>                                                             
+<h3 align='center'>Student Portal
+</h3>
+<p align="justify">Today I explored The portal is hosted on the /lms route. (Example. hogwarts.erpnext.com/lms) Here all the programs are shown in the form of cards. Each card is clickable and navigates to the corresponding program/course/topic/content. The portal is accessible even if a student has not logged in, however, the content (Articles, Videos, etc) can only be accessible after login and enrolling in the program.  </p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
 
@@ -731,25 +730,41 @@ You can also set up multiple auto assignments for each Document Type, the one wi
 Then I have created a workflow for issue. I defined the states like Open, Approved by Mentor, Closed etc and create transition rules for it and check the workflow with different roles like one student create issue then it goes to mentor, mentor can approve or reject that issue, then it will go to HOD,Till now it is working fine. </p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
-                  
+
 **Date : 20-April-2022**
 
 <!----------------------------------------------------------------------------------------------------------------------------->
  
-<h3 align='center'></h3>
-<p align="justify"></p>                                                             
+<h3 align='center'>Understanding the concept of workflow</h3>
+<p align="justify">Today I am understanding the concept of Workflow. With workflows we can rewrite how a particular process/workflow is approved in ERPNext.Once a Workflow is created, you can take actions on it via Workflow Actions.
+
+Workflow Actions is a single place to manage all the pending actions you can take on Workflows.
+Workflow Actions will send email notifications only if the 'Send Email Alert' checkbox is ticked in the Workflow that you've created.
+
+</p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
-                                    
+                  
 **Date : 21-April-2022**
 
 <!----------------------------------------------------------------------------------------------------------------------------->
  
-<h3 align='center'></h3>
-<p align="justify">Today First I have created workflow for issue/query. When I was implementing workflow on my local my laptop got stuck in between.
+<h3 align='center'>Assignment Rule</h3>
+<p align="justify">Today I am exploring Assignment rule. I am exploring that how we can use assignment rule in helpdesk.For assign the issue automatically amongst the employees who work on support, an Assignment Rule can be used.
+ We can define the Assignment rule Select the condition for the assignment. We can write simple Python expressions for automatic assignment in the Assign Rule, Close Rule and Unassign Rule. We will have access to all the properties of the document and can use operators like >, <, ==, etc and also multiple conditions like and and or.
+ 
+status == "Open"
+issue_type == "Technical" and priority=="High" and status == "Open"</p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+                                                      
+**Date : 22-April-2022**
 
-Then I start it on gne11.gndec.ac.in.
-In this, First i have created assignment rule and Service level agreement  for issue module.Then i was stuck in permissions. Some issues/query were visible and some were not.
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Stuck in Permissions</h3>
+<p align="justify">
+Today I was stuck in permissions. Some issues/query were visible and some were not.
 
 I checked all permissions for users. After struggle of 2 hours I got to know that issue/query was created in Nankana sahib education trust company i.e. our parent company and I was user of child company so issues/query were not visible.
 
@@ -760,6 +775,56 @@ Finally I conclude that when a user (who have not assigned any company) creates 
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
 
+
+**Date : 23-April-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Email Setup</h3>
+<p align="justify">Today I am setup the Email on my local Erpnext.An email domain is the name of the network/service you're using for your email account.
+We can skip to Email Account creation if you are using one of the services listed here. We can configure our Email Domain in ERPNext for easy setup of all Email Accounts. </p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+
+
+**Date : 25-April-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Workflow for helpdesk</h3>
+<p align="justify">Today First I have created workflow for issue/query. When I was implementing workflow on my local my laptop got stuck in between.
+
+Then I start it on gne11.gndec.ac.in.I have define the states and actions in workflow </p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+**Date : 26-April-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Demonstrate the Helpdesk Workflow</h3>
+<p align="justify">Today I am giving permission to all the users according to the workflow.First I have created two role Mentor and HOD.After that I have given the permission according to workflow. Check the workflow with different roles like one student create issue then it goes to mentor, mentor can approve or reject that issue, then it will go to HOD,Till now it is working fine.</p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+
+
+**Date : 28-April-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Comparing Workflow of Student applicant and Issue </h3>
+<p align="justify">Today I am comparing the workflow of Student applicant and Issue. And Finding that we can use multiple Workflow for the system.</p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+              
+ **Date : 29-April-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Presentation of souvenir
+</h3>
+<p align="justify"></p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
                   
 **Date : 30-April-2022**
 
