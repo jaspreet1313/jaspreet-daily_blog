@@ -811,8 +811,8 @@ Then I start it on gne11.gndec.ac.in.I have define the states and actions in wor
 
 <!----------------------------------------------------------------------------------------------------------------------------->
  
-<h3 align='center'>Comparing Workflow of Student applicant and Issue </h3>
-<p align="justify">Today I am comparing the workflow of Student applicant and Issue. And Finding that we can use multiple Workflow for the system.</p>                                                             
+<h3 align='center'>Presentation of souvenir </h3>
+<p align="justify">Today My mates gave presentation to all juniors. They showed us all the requirements, specification and overall workflow of the project and what is the required output.</p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
               
@@ -820,9 +820,8 @@ Then I start it on gne11.gndec.ac.in.I have define the states and actions in wor
 
 <!----------------------------------------------------------------------------------------------------------------------------->
  
-<h3 align='center'>Presentation of souvenir
-</h3>
-<p align="justify"></p>                                                             
+<h3 align='center'>Comparing Workflow of Student applicant and Issue</h3>
+<p align="justify">Today I am comparing the workflow of Student applicant and Issue. And Finding that we can use multiple Workflow for the system.</p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
                   
