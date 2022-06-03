@@ -969,15 +969,48 @@ Then we test the workflow with different roles and it is working nicely. </p>
 <p align="justify"> Created Presentation for the Whole Project To so that we can present our work to the trusties so with the team we created a presentation which contains all the infomation related to the erp Syatem which deals with the all kind of accounting, maintaing all students,staff and employees and pushed on github.  </p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
+
+
+
 **Date : 6-May-2022**
 
 <!----------------------------------------------------------------------------------------------------------------------------->
  
-<h3 align='center'>Scheduling Time-Table</h3>
-<p align="justify">  Tody I have tried scheduling Time-Table with some dummy Entries on
+<h3 align='center'> Course Scheduling on gne11</h3>
+<p align="justify">In course scheduling, when we are scheduling courses to Instructors of
+full year using a course scheduling tool, it shows all the entries of
+the whole year in the course schedule list.
+These entries will be in thousands.
+Earlier when we were scheduling courses, we just scheduled two or
+three courses of whole year, and server was not responding.
+
+  </p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+
+**Date : 8-May-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Scheduling Time-Table </h3>
+<p align="justify">Today I have tried scheduling Time-Table with some dummy Entries on
 https://gne11.gndec.ac.in/. If we want to see the Time-table of a particular instructor, then it
 is available in that instructor's profile and also we can see that
 from course scheduling list just by entering the instructor's name.</p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+
+
+**Date : 9-May-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'> Scheduling Time Table</h3>
+<p align="justify">We are creating it using course scheduling tool. In this, we need Room, Time, Day of lecture. And Time of lectures is not given in the TT of NSPS.
+You may set your own time in this case, set time of lectures between 8 am to 2 pm.
+
+And In NSPS, they mark attendance once in a day(In morning by incharge). And the use of doing course scheduling is to mark attendance in every lecture like in our college. So for school, there is no use of course scheduling.
+</p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
 
@@ -1183,7 +1216,7 @@ will not available in Account Payable Report.  </p>
  
 <h3 align='center'>Desk View
 Inbox</h3>
-<p align="justify">  we are finding a way to beautify the desk theme.
+<p align="justify">We are finding a way to beautify the desk theme.
   </p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
