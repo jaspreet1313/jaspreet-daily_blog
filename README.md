@@ -34,7 +34,7 @@
 **Date : 3-Feb-2022**
 <h3 align='center'>Introduction to frappe</h3>
 
-<p align="justify">Frappe, pronounced fra-pay, is a full stack, batteries-included, web framework written in Python and Javascript with MariaDB as the database. It is the framework which powers ERPNext, is pretty generic and can be used to build database driven apps.</p>
+<p align="justify">Frappe, pronounced fra-pay, is a full stack, batteries-included, web framework written in Python and Javascript with MariaDB as the database. </p>
 **Why Frappe?
 <p align="justify">The key difference in Frappe compared to other frameworks is that meta-data is also treated as data. This enables you to build front-ends very easily. We believe in a monolithic architecture, so Frappe comes with almost everything you need to build a modern web application. It has a full featured Admin UI called the Desk that handles forms, navigation, lists, menus, permissions, file attachment and much more out of the box.</p>
 
@@ -81,8 +81,7 @@ Today i am installing docker for hosting app in budibase .It is successfully ins
 <h3 align='center'>Introduction to Docker, Virtual Machine </h3>
 
 **What is Docker?**
-<p align="justify">Docker is popular virtualization software that helps its users in developing, deploying, monitoring, and running applications in a Docker Container with all their dependencies (frameworks, libraries, etc.) to run an application in an efficient and bug-free manner.Docker Containers are Light-weight, Applications run in isolation,Occupies less space, Easily portable and highly secure, Short boot-up
-time.</p>
+<p align="justify">Docker is popular virtualization software that helps its users in developing, deploying, monitoring, and running applications in a Docker Container with all their dependencies (frameworks, libraries, etc.) to run an application in an efficient and bug-free manner.Docker Containers are Light-weight, Applications run in isolation,Occupies less space, Easily portable and highly secure, Short boot-up time.</p>
 - It can run multiple containers on a system.
 - It can start multiple containers at a time on the Docker engine.
 <br>
@@ -115,7 +114,7 @@ For creating CRUD app click on "https://docs.budibase.com/docs/build-a-crud-app"
 <h3 align='center'>Introduction to Selenium, Budibase</h3>
 - Selenium is browser automation tool by which you can create a script which automatically done task like fill credential and click for search.
 - Budibase is a development platform designed for speed and productivity. 
-- <p align="justify">With Budibase, developers no-longer experience repetition, long-dev cycles, and frustration. Instead, developers are more productive, happier, and can deliver applications they're proud of in minutes.</p>
+- <p align="justify">With Budibase, developers no-longer experience repetition, long-dev cycles. Instead, developers are more productive, happier, and can deliver applications they're proud of in minutes.</p>
 - 
 
 
@@ -125,7 +124,7 @@ For creating CRUD app click on "https://docs.budibase.com/docs/build-a-crud-app"
 
 <h3 align='center'>Understanding the concept of budibase app </h3>
 I am currently working on budibase. Today i was reading the concept of apps that how they are created in Budibase.
-I haven’t done anything extra on budibase except reading the documentation and understanding the concept of built- in apps in budibase
+I haven’t done anything extra on budibase except reading the documentation and understanding the concept of built-in apps in budibase
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
@@ -221,7 +220,7 @@ A student group is a collection of students from the same batch or taking the sa
 
 <h3 align='center'>Basic setup of Education Student Module </h3>
 
-<p align="justify"> I am uderstanding the concept of Student module in erpnext.I created Student category Academic year, Academic Term  etc.
+<p align="justify"> I am uderstanding the concept of Student module in erpnext.I created Student category ,Academic year, Academic Term  etc.
 </p>
 <!----------------------------------------------------------------------------------------------------------------------------->
 
@@ -242,7 +241,7 @@ according to a school and done it on my local.
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 <h3 align='center'> Course Sceduling Module</h3>
-<p align="justify"> Today I implementing the course Schedule on my local. Using this , a Time table can be created in the Institute, where in each slot will be scheduled via Course schedule.We can mark attendance for a Student Group against a Course Schedule.</p>
+<p align="justify"> Today I implementing the course Schedule on my local. Using this, a Time table can be created in the Institute, where in each slot will be scheduled via Course schedule.We can mark attendance for a Student Group against a Course Schedule.</p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
@@ -264,7 +263,7 @@ Issue can be created in two ways. One is through the web portal after logged in 
 <h3 align='center'> Support Module</h3>
 <p align="justify">Today I have explored following terms:-
  Issues
-An incoming query from a customer. It’s usually done via email or from your website’s Contact section. It’s good practice to maintain a separate email (e.g., support@yourbusiness.com) to keep track of incoming customer requests. This even enables your ERP system to pick up emails and automatically turn them into support tickets.
+An incoming query from a Student. It’s usually done via email or from your website’s Contact section. It’s good practice to maintain a separate email (e.g., support@yourbusiness.com) to keep track of incoming customer requests. This even enables your ERP system to pick up emails and automatically turn them into support tickets.
 
 Issue Type
 Classifying issues into different categories (e.g., technical, functional, hardware, etc.) lets you easily assign the right employee to the support ticket. Each category is called an issue type.
@@ -285,7 +284,7 @@ A Service Level Agreement (or SLA) is a contract between the service provider (e
 
 <h3 align='center'> Workflow for Issue </h3>
 <p align="justify">Today I am reading about workflow of Issue.
-Whenever a customer sends a message to support email address or using their contact page, the system automatically creates a support ticket.
+Whenever a student sends a message to support email address or using their contact page, the system automatically creates a support ticket.
 The support ticket is evaluated by the team and assigned a priority, based on which the SLA is sent out to the customer.
 Depending on the issue type, the appropriate employee takes on the issue and does what they can to help resolve it.</p>
 
@@ -306,22 +305,21 @@ Depending on the issue type, the appropriate employee takes on the issue and doe
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 <h3 align='center'> Notice Board App</h3>
-<p align="justify">Today we all created a notice board app in erpnext within 30 minutes. It was a wonderful experience as we can created such apps withiin a short time period.We have created a notice board module in erpnext. Then we have created a doctype named Notice board with some required
+<p align="justify">Today we all created a notice board app in erpnext within 30 minutes. It was a wonderful experience as we can created such apps within a short time period.We have created a notice board module in erpnext. Then we have created a doctype named Notice board with some required
 fields like title, content, date, signature, attachments. </p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 
-**Date : 8-March-2022**
+**Date : 08-March-2022**
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 <h3 align='center'> Assesement Module</h3>
-<p align="justify">Today I implemented the assessment module in
-gne11.gndec.ac.in.
-First I have created  Assessment Creteria . For example, if the assessment was conducted for english or other subject, then we canevaluate Student in English on various criteria like Writing, internal assessment(viva), Attendence etc.Assessment criteria can be used while scheduling assessment plan for
+<p align="justify">Today I implemented the assessment module in gne11.gndec.ac.in.
+First I have created  Assessment Creteria . For example, if the assessment was conducted for english or other subject, then we can evaluate Student in English on various criteria like Writing, internal assessment(viva), Attendence etc.Assessment criteria can be used while scheduling assessment plan for
 student group and course.
-Then next , I have created Assessment group tree (hierarchy for examination conducted in school) for one batch i.e 2021-2022 . As shown in following screenshot.
+Then next , I have created Assessment group tree (hierarchy for examination conducted in school) for one batch i.e 2021-2022 . 
 **Assessment plan**
 
 Next I created Assessment plan which is schedule to conduct the examination/assessment of a particular course for a group of students in an on-going academic term. For creating Assessment plan the prerequisites is grading scale so, we need to create grading scale for it.
@@ -334,7 +332,7 @@ Next I created Assessment plan which is schedule to conduct the examination/asse
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-<h3 align='center'> Attendance module in Erpnext</h3>
+<h3 align='center'> Attendance module </h3>
 <p align="justify">Today, I studied about how to mark attendance in erpnext. There are two methods to mark attendance:- using Student attendance and Student Attendance tool. For marking attendance of single student we can use student attendance and for bulk entries, we can use student attendance tool.
  </p>
 
@@ -344,7 +342,7 @@ Next I created Assessment plan which is schedule to conduct the examination/asse
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-<h3 align='center'>Web Form in Erpnext  </h3>
+<h3 align='center'>Web Form  </h3>
 <p align="justify"> Today I have explored that There are two types of in-built interfaces available in ERPNext. The Desk View and the Web View. Desk is for users who regularly interact with ERPNext instance, like employees of your organization.
 
 Web View is for users who need to interact with an ERPNext instance occasionally. Web forms are similar to the forms you generally fill in various websites on the internet. Webforms are part of the Web View interface in ERPNext.</p>
