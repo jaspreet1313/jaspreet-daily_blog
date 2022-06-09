@@ -371,8 +371,7 @@ Web View is for users who need to interact with an ERPNext instance occasionally
 Grading Scale
 
 Grading scale define the threshold for the different grades obtained by the students, based on their scores in the assessment. For example , I have created grading scale of Students obtaining a score of 100%  would be graded as O, students obtaining a score of 80% and below would be graded A- and so on.
-After creating Assessment plan for course 'English-4/A/MST -1'. Then
-there is Assessment Result.
+After creating Assessment plan for course 'English-4/A/MST -1'. Then  there is Assessment Result.
 
 Assessment Result
 
@@ -398,7 +397,7 @@ based on Assessment plan.
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 <h3 align='center'> Report Generation of student</h3>
-<p align="justify"> In the erpnext education module I was trying to generate report card for students while creating report card I am able to show the courses and exams but not able to show the marks of students in the report card.I have assigned the marks to the particular students.</p>
+<p align="justify"> In the erpnext education module Today I was trying to generate report card for students while creating report card I am able to show the courses and exams but not able to show the marks of students in the report card.I have assigned the marks to the particular students.</p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
@@ -412,10 +411,9 @@ based on Assessment plan.
 **Date : 17-March-2022**
 
 <h3 align='center'> Course Scheduling </h3>
-<p align="justify">Today we all have implemented course scheduling via course scheduling tool , assessment plan, attendance by using attendance tool, we were also exploring the student leave application but the problem is if we have added an application for leave and also approved it but after approving if an instructor is trying to add attendance of whole class via attendence tool then it marking everyone present including students with leave application. Today we all have explored learning management system in erpnext too "https://gne11.gndec.ac.in/lms" which is basically student interface. I was also working on emails basically "how we can disable email must be unique" in erpnext and I have found a solution for this problem for this we have to open the doctype and to click on customize doctype and then go to email field type then click on edit in full page there is an checkbox named "Unique" then just uncheck it. Now I was exploring how do I can add parents in erpnext and what are the requirements and I have found that there is an option named guardians in erpnext education module now I am working on it.
- 
- 
-<!----------------------------------------------------------------------------------------------------------------------------->
+<p align="justify">Today we all have implemented course scheduling via course scheduling tool , assessment plan, attendance by using attendance tool, we were also exploring the student leave application but the problem is if we have added an application for leave and also approved it but after approving if an instructor is trying to add attendance of whole class via attendence tool then it marking everyone present including students with leave application. Today we all have explored learning management system in erpnext too "https://gne11.gndec.ac.in/lms" which is basically student interface. 
+  
+ <!----------------------------------------------------------------------------------------------------------------------------->
  
 
 **Date : 18-March-2022**
@@ -634,7 +632,7 @@ Based on Activity: Here, we can mark attendance based on the Activity group. </p
  <!----------------------------------------------------------------------------------------------------------------------------->
  
  **Date : 8-April-2022**
-
+3
 <!----------------------------------------------------------------------------------------------------------------------------->
  
 <h3 align='center'>Reading the files of LMS
