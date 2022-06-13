@@ -159,8 +159,30 @@ Today I am creating CRUD App. For creating CRUD app click on "https://docs.budib
 
 **Date : 19-Feb-2022**
 
-<h3 align='center'>Creating Library Management App </h3>
-<p align="justify"></p>
+<h3 align='center'>Creating Library Management App in Frappe</h3>
+<p align="justify">I learned some new commands of bench that are as following:
+
+bench –version: To check the version of bench.
+
+bench –site <site-name> list-apps: This will give the list of all apps that are installed on site.
+
+bench –site <site-name> console: To access the python console.
+
+bench –site <site-name> mariadb: To access the mariadb console.
+
+bench backup: Ceate a backup of the default site.
+
+bench –site <site-name> set-admin-password <password>: This will reset the administrator password.
+
+bench remove-app <app-name>: This will remove app from bench.
+
+I started building a simple Library Management System in which the Librarian can log in and manage Articles and Memberships. This will include:
+
+Article: A Book or similar item that can be rented.
+Library Member: A user who is subscribed to a membership.
+Library Transaction: An Issue or Return of an article.
+Library Membership: A document that represents an active membership of a Library Member.
+Library Settings: Settings that define values like Loan Period and the maximum number of articles that can be issued at a time.</p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
@@ -1236,7 +1258,8 @@ With this colour of heading and navigation bar got changed.
  
 <h3 align='center'>Desk View
 Inbox</h3>
-<p al
+<p>
+ 
   </p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
