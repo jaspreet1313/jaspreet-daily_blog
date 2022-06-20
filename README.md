@@ -1227,21 +1227,86 @@ will not available in Account Payable Report.  </p>
 <!---------------------------------------------------------------------------------------------------------------------------->
 
 
-
-**Date : 21-May-2022**
+ **Date : 21-May-2022**
 
 <!----------------------------------------------------------------------------------------------------------------------------->
  
-<h3 align='center'>Desk View
+<h3 align='center'>Asset Report
 Inbox</h3>
-<p align="justify">We are finding a way to beautify the desk theme.
+<p align="justify">Today I explore reports of asset shows the Purchase Amount, Depreciated Amount and accumulated total depreciation for all the assets under the selected date range. It also shows the current value and current depreciation status of the Asset.
+
+
   </p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+**Date : 23-May-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Asset Category </h3>
+<p align="justify">An Asset Category classifies different assets of a Company.
+
+The first step towards asset management is creating an Asset Category based on the type of assets. For example, all your desktops and laptops can be part of an Asset Category named "Electronic Equipments".
+
+In Asset Category, you can set default a depreciation method, periodicity and depreciation related accounts, which will apply to all the assets under the category.
+
+ </p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
 
 
+**Date : 24-May-2022**
 
-**Date : 22-May-2022**
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'> Asset Maintenance
+</h3>
+<p align="justify"> The Asset Maintenance Team is responsible for carrying out maintenance activities on the Asset.
+
+The maintenance activities can be cleaning, polishing, servicing, or any other activity required to maintain the Asset in good condition.
+ Go to the Asset Maintenance Team list, click on New.
+Enter a name for the team.
+Select a manager for the team.
+In the Maintenance Team Members table, add the team members and select their maintenance roles.
+Save.</p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+**Date : 25-May-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Asset Movement</h3>
+<p align="justify">
+Asset Movement refers to moving an Asset from one Location to another.
+
+In ERPNext, you can track the location of an asset or to whom it is issued. For tracking, you need to create an Asset Movement transaction, whenever the asset is moved from one location to another. You can also keep a track of issuance of an asset to any employee.</p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+ 
+ **Date : 26-May-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Asset Maintenance Log</h3>
+<p align="justify">Asset Maintenance Log logs the tasks carried out in an Asset Maintenance.
+
+For each task in Asset Maintenance, Asset Maintenance Log is auto created to keep track of the upcoming maintenances. It will have a status, completion date and actions performed. Based on completion date here, next due date is calculated automatically and new Asset Maintenance Log is created.
+
+</p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+**Date : 27-May-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ Today I am finding  set up automatic assignment of documents to Users.
+
+To assign the support tickets automatically amongst the employees who work on support, an Assignment Rule can be used.
+
+</p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+
+**Date : 30-May-2022**
 
 <!----------------------------------------------------------------------------------------------------------------------------->
  
@@ -1252,16 +1317,79 @@ With this colour of heading and navigation bar got changed.
   </p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
-**Date : 24-May-2022**
+**Date : 31-May-2022**
 
 <!----------------------------------------------------------------------------------------------------------------------------->
  
-<h3 align='center'>Desk View
-Inbox</h3>
+<h3 align='center'>Desk View Inbox</h3>
 <p>
- 
+- Sir assigned us (Me and Jaspreet) the task to beautify the desk view with bootstrap. So we are exploring about it.
+- We found theme of desk. We install a theme from this url: https://github.com/hashirluv/r
+- After installing this theme, colour of heading, navigation bar etc got changed.
+- Then we tried some other themes also. We tried White Theme, Blue Theme etc.
+- Then we understand the code and css files to change the view of desk. We can change only background colours, text colours, hover text colour etc with some changes in the css files.
+
   </p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
+ 
+ **Date : 1-June-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Dashboard for erpGURU</h3>
+<p>
+- Now we (I and Jaspreet) have to create a new dashboard page according to the rquirement specified by sir.
+- There should be links of Student, Program, Fee, Attendance etc. After clicking, it would ask for login
+  </p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+ 
+  **Date : 2-June-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Dashboard for erpGURU</h3>
+<p>
+- Now we (I and Jaspreet) have to create a new dashboard page according to the rquirement specified by sir.
+- There should be links of Student, Program, Fee, Attendance etc. After clicking, it would ask for login.
+- So we explored about this and create a new webpage. (Go to Website > Webpage then create new webpage)
+- Enter Title, Route etc. Select HTML in Content Type.
+- Enter the following code in html:
+  </p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+ **Date : 4-June-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Active and Deactive Students
+</h3>
+<p>
+- We can check all active students and deactive students in the system.
+- Deactive students are those who have not paid their fees after a particular date.
+- We can check all active/deactive students from student list.
+- Go to student list. Add a filter with “Enabled” equals “Yes” in the student list. Count of all active students will show there.
+- To check Deactive students, change value of Enable to No. Then all deactive students will be visible.
+- We can also check Gender wise Active or Deactive students by applying Gender equals Female or Male filter. </p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+ **Date : 6-June-2022**
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+ 
+<h3 align='center'>Class and Section wise Active/Deactive Students
+</h3>
+<p>
+- There is no Program field in the student doctype.
+- So we have to customize the doctype and add a new field Program and link it to the Program DocType.
+- After this, we can check count of active or deactive students class-wise and section-wise.
+- For class-wise, add a filter of program for example Program like Class 8.
+- For section-wise, add a filter of program. For example Program equals Class 8 A.
+
+  </p>                                                             
+                  
+<!---------------------------------------------------------------------------------------------------------------------------->
+
 
                                
