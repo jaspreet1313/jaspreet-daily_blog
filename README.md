@@ -189,7 +189,7 @@ Library Settings: Settings that define values like Loan Period and the maximum n
 **Date : 21-Feb-2022**
 
 <h3 align='center'>Introdution to TMUX and Mosh</h3>
-<p align="justify">Today we were working on education domain in erpnext and trying to understand the student module of education domain. Today we got to know two new tools which are really very helpful for the coders which are TMUX and MOSH. Mosh: Mosh is free and command-line software that is used to connect from a client computer to a server over the Internet to run a remote terminal. Mosh is more intelligent than SSH. While the SSH client waits for a TCP response from the server before showing your typing, Mosh will display your typing in real-time and even give underlined typing predictions. The mosh program will SSH to user@host to establish the connection. As you know, SSH may prompt the user for a password or use public-key authentication to log in. But mosh runs the mosh-server process (as the user) on the server machine. Mosh will run inside your Terminals such as xterm, gnome-terminal, urxvt, Terminal.app, iTerm, emacs, screen, or tmux.
+<p align="justify">Today we were working on education domain and trying to understand the student module of education domain. Today we got to know two new tools which are really very helpful for the coders which are TMUX and MOSH. Mosh: Mosh is free and command-line software that is used to connect from a client computer to a server over the Internet to run a remote terminal. Mosh is more intelligent than SSH. While the SSH client waits for a TCP response from the server before showing your typing, Mosh will display your typing in real-time and even give underlined typing predictions. The mosh program will SSH to user@host to establish the connection. As you know, SSH may prompt the user for a password or use public-key authentication to log in. But mosh runs the mosh-server process (as the user) on the server machine. Mosh will run inside your Terminals such as xterm, gnome-terminal, urxvt, Terminal.app, iTerm, emacs, screen, or tmux.
 Tmux: Tmux is a Linux application that allows multitasking in a terminal window. It stands for Terminal Multiplexing, and is based around sessions. Users can start a process, switch to a new one, detach from a running process, and reattach to a running process.</p>
  
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -197,8 +197,8 @@ Tmux: Tmux is a Linux application that allows multitasking in a terminal window.
 **Date : 22-Feb-2022**
 
 
-<h3 align='center'>Working on ERPNext </h3>
-<p align="justify">Today I started working on new platform erpnext. It is open source, and low code or no platform.Today I am reading the documentation of erpnext to understand the education domain. Today I have created some programs and courses now i am trying to understand how to enroll students in programs and courses.</p>
+<h3 align='center'>Working on ERPGURU </h3>
+<p align="justify">Today I started working on new platform frappe. It is open source. Today I am reading the documentation of frappe to understand the education domain. Today I have created some programs and courses now i am trying to understand how to enroll students in programs and courses.</p>
 
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -242,7 +242,7 @@ A student group is a collection of students from the same batch or taking the sa
 
 <h3 align='center'>Basic setup of Education Student Module </h3>
 
-<p align="justify"> I am uderstanding the concept of Student module in erpnext.I created Student category ,Academic year, Academic Term  etc.
+<p align="justify"> I am understanding the concept of Student module.I created Student category ,Academic year, Academic Term  etc.
 </p>
 <!----------------------------------------------------------------------------------------------------------------------------->
 
@@ -327,7 +327,7 @@ Depending on the issue type, the appropriate employee takes on the issue and doe
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 <h3 align='center'> Notice Board App</h3>
-<p align="justify">Today we all created a notice board app in erpnext within 30 minutes. It was a wonderful experience as we can created such apps within a short time period.We have created a notice board module in erpnext. Then we have created a doctype named Notice board with some required
+<p align="justify">Today we all created a notice board app within 30 minutes. It was a wonderful experience as we can created such apps within a short time period.We have created a notice board module. Then we have created a doctype named Notice board with some required
 fields like title, content, date, signature, attachments. </p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -355,7 +355,7 @@ Next I created Assessment plan which is schedule to conduct the examination/asse
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 <h3 align='center'> Attendance module </h3>
-<p align="justify">Today, I studied about how to mark attendance in erpnext. There are two methods to mark attendance:- using Student attendance and Student Attendance tool. For marking attendance of single student we can use student attendance and for bulk entries, we can use student attendance tool.
+<p align="justify">Today, I studied about how to mark attendance. There are two methods to mark attendance:- using Student attendance and Student Attendance tool. For marking attendance of single student we can use student attendance and for bulk entries, we can use student attendance tool.
  </p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -365,9 +365,9 @@ Next I created Assessment plan which is schedule to conduct the examination/asse
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 <h3 align='center'>Web Form  </h3>
-<p align="justify"> Today I have explored that There are two types of in-built interfaces available in ERPNext. The Desk View and the Web View. Desk is for users who regularly interact with ERPNext instance, like employees of your organization.
+<p align="justify"> Today I have explored that There are two types of in-built interfaces . The Desk View and the Web View. Desk is for users who regularly interact , like employees of your organization.
 
-Web View is for users who need to interact with an ERPNext instance occasionally. Web forms are similar to the forms you generally fill in various websites on the internet. Webforms are part of the Web View interface in ERPNext.</p>
+Web View is for users who need to interact with an instance occasionally. Web forms are similar to the forms you generally fill in various websites on the internet. Webforms are part of the Web View interface.</p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
@@ -419,7 +419,7 @@ based on Assessment plan.
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 <h3 align='center'> Report Generation of student</h3>
-<p align="justify"> In the erpnext education module Today I was trying to generate report card for students while creating report card I am able to show the courses and exams but not able to show the marks of students in the report card.I have assigned the marks to the particular students.</p>
+<p align="justify"> In the education module Today I was trying to generate report card for students while creating report card I am able to show the courses and exams but not able to show the marks of students in the report card.I have assigned the marks to the particular students.</p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
@@ -433,7 +433,7 @@ based on Assessment plan.
 **Date : 17-March-2022**
 
 <h3 align='center'> Course Scheduling </h3>
-<p align="justify">Today we all have implemented course scheduling via course scheduling tool , assessment plan, attendance by using attendance tool, we were also exploring the student leave application but the problem is if we have added an application for leave and also approved it but after approving if an instructor is trying to add attendance of whole class via attendence tool then it marking everyone present including students with leave application. Today we all have explored learning management system in erpnext too "https://gne11.gndec.ac.in/lms" which is basically student interface. 
+<p align="justify">Today we all have implemented course scheduling via course scheduling tool , assessment plan, attendance by using attendance tool, we were also exploring the student leave application but the problem is if we have added an application for leave and also approved it but after approving if an instructor is trying to add attendance of whole class via attendence tool then it marking everyone present including students with leave application. Today we all have explored learning management system "https://gne11.gndec.ac.in/lms" which is basically student interface. 
   
  <!----------------------------------------------------------------------------------------------------------------------------->
  
@@ -454,7 +454,7 @@ Scaffhold:-Scaffolding is a meta-programming method of building database-backed 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 <h3 align='center'>Creating workflow for Student Admission</h3>
-<p align="justify">Today we were trying to create a workflow for student applicant in erpnext as per the structure given by satinder sir . For that we created a user named admission checker and set permission for the user.
+<p align="justify">Today we were trying to create a workflow for student applicant as per the structure given by satinder sir . For that we created a user named admission checker and set permission for the user.
 
 After that we have created states and transition rules in workflow it is working properly now we are trying to add fee section in student applicant list<p>
 
@@ -649,7 +649,7 @@ Based on Activity: Here, we can mark attendance based on the Activity group. </p
 **Date : 7-April-2022**
                   
 <h3 align='center'>Course schedule</h3>
-<p align="justify">Today I have implemented course scheduling via course scheduling tool , assessment plan, attendance by using attendance tool, we were also exploring the student leave application but the problem is if we have added an application for leave and also approved it but after approving if an instructor is trying to add attendance of whole class via attendence tool then it marking everyone present including students with leave application. Today we all have explored learning management system in erpnext too "https://gne11.gndec.ac.in/lms" which is basically student interface. </p>
+<p align="justify">Today I have implemented course scheduling via course scheduling tool , assessment plan, attendance by using attendance tool, we were also exploring the student leave application but the problem is if we have added an application for leave and also approved it but after approving if an instructor is trying to add attendance of whole class via attendence tool then it marking everyone present including students with leave application. Today we all have explored learning management system  "https://gne11.gndec.ac.in/lms" which is basically student interface. </p>
 
  <!----------------------------------------------------------------------------------------------------------------------------->
  
@@ -659,7 +659,7 @@ Based on Activity: Here, we can mark attendance based on the Activity group. </p
  
 <h3 align='center'>Reading the files of LMS
 </h3>
-<p align="justify"> As by using user permissions still instructor was able to see all the programs and courses. To find the solution for this we are trying to understand the structure of lms for this i was reading all the files of lms present in erpnext in the programs and course file it is metioned that by default instructor has access to all the programs and courses.
+<p align="justify"> As by using user permissions still instructor was able to see all the programs and courses. To find the solution for this we are trying to understand the structure of lms for this i was reading all the files of lms present  in the programs and course file it is metioned that by default instructor has access to all the programs and courses.
 
   </p>                                                             
                   
@@ -670,7 +670,7 @@ Based on Activity: Here, we can mark attendance based on the Activity group. </p
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 <h3 align='center'>Exploring LMS</h3>
-<p align="justify">Today we all have explored learning management system in erpnext too "https://gne11.gndec.ac.in/lms" which is basically student interface. Here we checked that we can only show the programs to the student.In which quiz , article, video content is show.</p>
+<p align="justify">Today we all have explored learning management system  "https://gne11.gndec.ac.in/lms" which is basically student interface. Here we checked that we can only show the programs to the student.In which quiz , article, video content is show.</p>
 <!---------------------------------------------------------------------------------------------------------------------------->
 
                   
@@ -679,7 +679,7 @@ Based on Activity: Here, we can mark attendance based on the Activity group. </p
 <!----------------------------------------------------------------------------------------------------------------------------->
  
 <h3 align='center'>Support Module on gne11</h3>
-<p align="justify"> Today I am trying support module in erpnext. Issue comes under support module in ERPNext.We can track incoming queries from your email using Support Tickets. You can keep track of Customer Issues linked with a specific Serial No and respond to them based on information. You can also make Maintenance Schedules for Serial NOs and keep a record of all Maintenance Visits made to your Customers.  </p>                                                             
+<p align="justify"> Today I am trying support module. Issue comes under support module.We can track incoming queries from your email using Support Tickets. You can keep track of Customer Issues linked with a specific Serial No and respond to them based on information. You can also make Maintenance Schedules for Serial NOs and keep a record of all Maintenance Visits made to your Customers.  </p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
 **Date : 12-April-2022**
@@ -707,7 +707,7 @@ SLAs are output-based, their purpose is specifically to define the timeline in w
  
 <h3 align='center'>Student Portal
 </h3>
-<p align="justify">Today I explored The portal is hosted on the /lms route. (Example. hogwarts.erpnext.com/lms) Here all the programs are shown in the form of cards. Each card is clickable and navigates to the corresponding program/course/topic/content. The portal is accessible even if a student has not logged in, however, the content (Articles, Videos, etc) can only be accessible after login and enrolling in the program.  </p>                                                             
+<p align="justify">Today I explored The portal is hosted on the /lms route. Here all the programs are shown in the form of cards. Each card is clickable and navigates to the corresponding program/course/topic/content. The portal is accessible even if a student has not logged in, however, the content (Articles, Videos, etc) can only be accessible after login and enrolling in the program.  </p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
 
@@ -754,7 +754,7 @@ Then I have created a workflow for issue. I defined the states like Open, Approv
 <!----------------------------------------------------------------------------------------------------------------------------->
  
 <h3 align='center'>Understanding the concept of workflow</h3>
-<p align="justify">Today I am understanding the concept of Workflow. With workflows we can rewrite how a particular process/workflow is approved in ERPNext.Once a Workflow is created, you can take actions on it via Workflow Actions.
+<p align="justify">Today I am understanding the concept of Workflow. With workflows we can rewrite how a particular process/workflow is approved.Once a Workflow is created, you can take actions on it via Workflow Actions.
 
 Workflow Actions is a single place to manage all the pending actions you can take on Workflows.
 Workflow Actions will send email notifications only if the 'Send Email Alert' checkbox is ticked in the Workflow that you've created.
@@ -799,8 +799,8 @@ Finally I conclude that when a user (who have not assigned any company) creates 
 <!----------------------------------------------------------------------------------------------------------------------------->
  
 <h3 align='center'>Email Setup</h3>
-<p align="justify">Today I am setup the Email on my local Erpnext.An email domain is the name of the network/service you're using for your email account.
-We can skip to Email Account creation if you are using one of the services listed here. We can configure our Email Domain in ERPNext for easy setup of all Email Accounts. </p>                                                             
+<p align="justify">Today I am setup the Email on my local .An email domain is the name of the network/service you're using for your email account.
+We can skip to Email Account creation if you are using one of the services listed here. We can configure our Email Domain for easy setup of all Email Accounts. </p>                                                             
                   
 <!---------------------------------------------------------------------------------------------------------------------------->
 
@@ -1052,7 +1052,7 @@ the same thing doing entries one by one. I think csv is more productive than scr
 <h3 align='center'>Asset Module</h3>
 <p align="justify">  Today I am done with the course scheduling. Now I am exploring the
 asset module as it was assigned to me the other day.
-Asset: In ERPNext, We can maintain fixed asset records for Company assets like computers, furniture, cars, etc. and manage their depreciations, sale. It is any valuable item owned by a company.
+Asset: We can maintain fixed asset records for Company assets like computers, furniture, cars, etc. and manage their depreciations, sale. It is any valuable item owned by a company.
 Asset category: Asset Category based on the type of assets. For example, all desktops and laptops can be part of an Asset Category named 'Electronic Equipments'.
 
 Types of assets:
@@ -1088,7 +1088,7 @@ assets that are disposed. </p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
  
-<h3 align='center'>Stock and Asset module in ERPNext</h3>
+<h3 align='center'>Stock and Asset module </h3>
 <p align="justify">Stock, Buying and Accounting modules are inter linked with
 each other.
 It is so complex. We are trying to understand terms like General
