@@ -205,7 +205,7 @@ Tmux: Tmux is a Linux application that allows multitasking in a terminal window.
 
 **Date : 23-Feb-2022**
 
-<h3 align='center'>Working on erpnext </h3>
+<h3 align='center'>Working on erpGURU/h3>
 Today sir has assigned the task to explore education domain. I am reading the documentation and trying to understand it. First for setup of education domain. We have to follow steps like Create progam, Courses, Students etc.
 <p align="justify"> </p>
 
@@ -317,7 +317,7 @@ Depending on the issue type, the appropriate employee takes on the issue and doe
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 <h3 align='center'> Meeting app</h3>
-<p align="justify">Today vishal and pawan gave us a presentation of meeting app. They showed us how to create custom apps in erp and how to install it onto the site. And they also showed us the code of the app and structure and files of the meeting app. Working on instructure section of education module of erpnext. </p>
+<p align="justify">Today vishal and pawan gave us a presentation of meeting app. They showed us how to create custom apps in erp and how to install it onto the site. And they also showed us the code of the app and structure and files of the meeting app. Working on instructure section of education module . </p>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 
